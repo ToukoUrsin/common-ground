@@ -18,12 +18,15 @@ Built for the Graphiques Innovation Challenge, Architecture & Urban Innovation. 
 4. **Inspect the reasoning** to see an irreducible conflicting set.
 5. Choose **Increase budget to €37k**. A plan becomes feasible without silently abandoning the community's original minimums.
 6. Export the proposal. It includes every assumption, the chosen interventions, constraints, results and a verification certificate.
+7. Open **Review an export**, select that JSON file, and inspect the readable decision receipt. The reader reruns the full search and checks the saved results and intervention definitions. Altered counts, scores, costs or conflict claims are rejected.
+
+The budget preset restores the original minimums and clears the protected favorite. For a single budget-only experiment, start with the original workshop and skip step 2.
 
 The exact visual plan is a concept drawing. Costs, spatial units, care units and design scores are explicitly illustrative. They are not validated community preferences, contractor quotes, engineering calculations, water/heat measurements, or predicted health benefits. Trees' eventual shade and a canopy's immediate shade must be distinguished in a real project.
 
 ## Validation
 
-Eight meaningful local tests passed on September 21, 2026. Hosted CI has not been verified. GitHub Pages deployed successfully. See the [recorded demo and captions](media/README.md).
+Eleven meaningful local tests passed on September 21, 2026. The browser export was opened in the new reader, reproduced the €37k plan, and rejected an altered saved count without retaining the prior success state. Hosted CI has not been verified. See the [recorded demo and captions](media/README.md).
 
 ## Run
 
@@ -35,7 +38,7 @@ npm start
 npm test
 ```
 
-The app is also a static site: serve `index.html`, `style.css`, `app.mjs`, and `engine.mjs` from any HTTPS host. Google Fonts improves typography when available; system fonts are the offline fallback. Workshop state stays in browser localStorage. No analytics, accounts or remote AI calls.
+The app is also a static site: serve `index.html`, `style.css`, `app.mjs`, `engine.mjs`, `receipt.html`, and `receipt.mjs` from any HTTPS host. Google Fonts improves typography when available; system fonts are the offline fallback. Workshop state stays in browser localStorage. Imported proposal files remain in the browser. No analytics, accounts or remote AI calls.
 
 ## Why it exists
 

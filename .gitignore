@@ -5,3 +5,9 @@ media/raw/
 media/*.mp3
 media/*.mp4
 media/*.mov
+media/creative-review-assets/
+media/v2/raw/
+media/v2/*.mp4
+media/v2/*.mp3
+media/v2/*.wav
+media/v2/frames/
