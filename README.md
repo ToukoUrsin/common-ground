@@ -6,7 +6,7 @@ Common Ground is a working participatory design studio for a small public space.
 
 Built for the Graphiques Innovation Challenge, Architecture & Urban Innovation. Original development began September 21, 2026. This is a research and design prototype, not a construction plan.
 
-[Open the live studio](https://toukoursin.github.io/common-ground/) · [Design and pilot proposal](DESIGN.md)
+[Open the live studio](https://toukoursin.github.io/common-ground/) · [Recorded demo and English captions](https://github.com/ToukoUrsin/common-ground/releases/tag/demo-2026-09-21) · [Design and pilot proposal](DESIGN.md)
 
 ![Common Ground studio](media/01-studio.png)
 
