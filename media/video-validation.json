@@ -1,0 +1,10 @@
+{
+  "file": "common-ground-demo.mp4",
+  "sha256": "dfa2f15d33f3b7d819be761e9a413120b2d2e6f09e3e7e327c3d96484948d96b",
+  "bytes": 5297869,
+  "duration_seconds": 100,
+  "video": "H264 1920x1080 30fps",
+  "audio": "AAC",
+  "captions": "Embedded English mov_text plus sidecar SRT",
+  "validation": "ffprobe metadata checked; full FFmpeg decode completed without errors; budget and repair frames extracted from final MP4 and visually inspected."
+}

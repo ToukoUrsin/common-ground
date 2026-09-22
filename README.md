@@ -21,6 +21,10 @@ Built for the Graphiques Innovation Challenge, Architecture & Urban Innovation. 
 
 The exact visual plan is a concept drawing. Costs, spatial units, care units and design scores are explicitly illustrative. They are not validated community preferences, contractor quotes, engineering calculations, water/heat measurements, or predicted health benefits. Trees' eventual shade and a canopy's immediate shade must be distinguished in a real project.
 
+## Validation
+
+Eight meaningful local tests passed on September 21, 2026. Hosted CI has not been verified. GitHub Pages deployed successfully. See the [recorded demo and captions](media/README.md).
+
 ## Run
 
 Requires Node.js 22+; no npm dependencies, API keys or build step.

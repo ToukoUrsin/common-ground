@@ -1,0 +1,118 @@
+1
+00:00:01,550 --> 00:00:04,675
+A better public space starts with a difficult conversation.
+
+2
+00:00:05,336 --> 00:00:07,062
+Everyone has a different priority.
+
+3
+00:00:07,726 --> 00:00:09,550
+The budget cannot stretch forever.
+
+4
+00:00:09,850 --> 00:00:12,637
+And a beautiful drawing rarely explains what was left out.
+
+5
+00:00:13,296 --> 00:00:14,412
+This is Common Ground.
+
+6
+00:00:14,798 --> 00:00:17,998
+A place for all of us, with an explanation for every tradeoff.
+
+7
+00:00:18,877 --> 00:00:20,680
+Here is an illustrative pocket park.
+
+8
+00:00:21,129 --> 00:00:25,672
+We set a budget and minimum commitments to shade, access, play and
+water.
+
+9
+00:00:26,333 --> 00:00:31,141
+The studio checks all four thousand and ninety-six combinations of
+twelve interventions.
+
+10
+00:00:31,745 --> 00:00:34,418
+One hundred and forty-five meet every requirement.
+
+11
+00:00:35,126 --> 00:00:38,265
+A resident can protect a favorite, like inclusive play.
+
+12
+00:00:38,926 --> 00:00:41,330
+The entire plan changes around that commitment.
+
+13
+00:00:41,858 --> 00:00:43,130
+It is still their decision.
+
+14
+00:00:43,873 --> 00:00:46,418
+Now the budget falls to thirty thousand euros.
+
+15
+00:00:47,079 --> 00:00:48,461
+There is no feasible plan.
+
+16
+00:00:49,255 --> 00:00:53,629
+Common Ground does not quietly drop an accessibility target or invent a
+result.
+
+17
+00:00:54,247 --> 00:00:56,607
+It shows the exact requirements that conflict.
+
+18
+00:00:57,243 --> 00:00:59,015
+Then it asks a more useful question.
+
+19
+00:00:59,712 --> 00:01:00,814
+What would have to change?
+
+20
+00:01:01,356 --> 00:01:05,406
+An extra seven thousand euros is enough to satisfy every original
+minimum.
+
+21
+00:01:06,288 --> 00:01:08,946
+That repair is checked against the complete scenario.
+
+22
+00:01:09,491 --> 00:01:10,892
+We can explore it immediately.
+
+23
+00:01:11,550 --> 00:01:15,891
+The proposal exports with all its assumptions and a machine-checkable
+certificate.
+
+24
+00:01:16,654 --> 00:01:20,215
+Everything runs in the browser, and the workshop stays on this device.
+
+25
+00:01:20,595 --> 00:01:22,574
+This is a working design prototype.
+
+26
+00:01:23,220 --> 00:01:29,842
+Costs and scores are illustrative, and the next step is a facilitated
+pilot with residents and local design expertise.
+
+27
+00:01:30,439 --> 00:01:32,125
+No field impact is claimed.
+
+28
+00:01:32,731 --> 00:01:36,943
+Common Ground turns a hidden compromise into a conversation people can
+actually see.

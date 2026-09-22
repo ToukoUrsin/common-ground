@@ -1,0 +1,664 @@
+{
+  "duration": 100.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frame_rate": 30,
+  "source": "Actual browser CDP capture frames from a running local prototype. No generated UI states.",
+  "editing": "Chronological within each scene; holds retimed for narration. One brief blank scroll frame omitted. Lower thirds are editorial captions. Audio begins at 1.5s.",
+  "scenario_reset": "Budget scenario uses original minimums and resets the previously protected favorite; explicitly disclosed on-screen.",
+  "audio_sha256": "965376f18151ddb854fe9b5b6688a65f929e8fd099d27558f76e330d30fb4163",
+  "segments": [
+    {
+      "scene": 1,
+      "frame": "00000.jpg",
+      "start": 0.0,
+      "duration": 17.2,
+      "source_timestamp": 1790043930.26387,
+      "output_start": 0.0,
+      "output_duration": 11.8,
+      "caption": "What did the beautiful drawing leave out?"
+    },
+    {
+      "scene": 1,
+      "frame": "00000.jpg",
+      "start": 0.0,
+      "duration": 17.2,
+      "source_timestamp": 1790043930.26387,
+      "output_start": 11.8,
+      "output_duration": 5.4,
+      "caption": "A place for all of us."
+    },
+    {
+      "scene": 1,
+      "frame": "00001.jpg",
+      "start": 17.2,
+      "duration": 0.236573,
+      "source_timestamp": 1790043935.862732,
+      "output_start": 17.2,
+      "output_duration": 0.236573,
+      "caption": "A place for all of us."
+    },
+    {
+      "scene": 1,
+      "frame": "00002.jpg",
+      "start": 17.436573,
+      "duration": 0.28099,
+      "source_timestamp": 1790043936.099305,
+      "output_start": 17.436573,
+      "output_duration": 0.28099,
+      "caption": "A place for all of us."
+    },
+    {
+      "scene": 1,
+      "frame": "00003.jpg",
+      "start": 17.717563,
+      "duration": 0.073862,
+      "source_timestamp": 1790043936.380295,
+      "output_start": 17.717563,
+      "output_duration": 0.073862,
+      "caption": "A place for all of us."
+    },
+    {
+      "scene": 1,
+      "frame": "00004.jpg",
+      "start": 17.791425,
+      "duration": 0.160983,
+      "source_timestamp": 1790043936.454157,
+      "output_start": 17.791425,
+      "output_duration": 0.160983,
+      "caption": "A place for all of us."
+    },
+    {
+      "scene": 1,
+      "frame": "00005.jpg",
+      "start": 17.952408,
+      "duration": 16.747592,
+      "source_timestamp": 1790043936.61514,
+      "output_start": 17.952408,
+      "output_duration": 0.647592,
+      "caption": "A place for all of us."
+    },
+    {
+      "scene": 1,
+      "frame": "00005.jpg",
+      "start": 17.952408,
+      "duration": 16.747592,
+      "source_timestamp": 1790043936.61514,
+      "output_start": 18.6,
+      "output_duration": 16.1,
+      "caption": "4,096 combinations. 145 feasible plans."
+    },
+    {
+      "scene": 2,
+      "frame": "00000.jpg",
+      "start": 34.7,
+      "duration": 1.0,
+      "source_timestamp": 1790043976.646562,
+      "output_start": 34.7,
+      "output_duration": 1.0,
+      "caption": "Keep inclusive play. Reconsider the rest."
+    },
+    {
+      "scene": 2,
+      "frame": "00001.jpg",
+      "start": 35.7,
+      "duration": 8.0,
+      "source_timestamp": 1790043976.819484,
+      "output_start": 35.7,
+      "output_duration": 8.0,
+      "caption": "Keep inclusive play. Reconsider the rest."
+    },
+    {
+      "scene": 3,
+      "frame": "00000.jpg",
+      "start": 43.7,
+      "duration": 0.8,
+      "source_timestamp": 1790043996.076717,
+      "output_start": 43.7,
+      "output_duration": 0.8,
+      "caption": "\u20ac30k. No feasible plan."
+    },
+    {
+      "scene": 3,
+      "frame": "00001.jpg",
+      "start": 44.5,
+      "duration": 0.358679,
+      "source_timestamp": 1790043996.334334,
+      "output_start": 44.5,
+      "output_duration": 0.358679,
+      "caption": "\u20ac30k. No feasible plan."
+    },
+    {
+      "scene": 3,
+      "frame": "00002.jpg",
+      "start": 44.858679,
+      "duration": 0.129579,
+      "source_timestamp": 1790043996.693013,
+      "output_start": 44.858679,
+      "output_duration": 0.129579,
+      "caption": "\u20ac30k. No feasible plan."
+    },
+    {
+      "scene": 3,
+      "frame": "00003.jpg",
+      "start": 44.988258,
+      "duration": 0.576571,
+      "source_timestamp": 1790043996.822592,
+      "output_start": 44.988258,
+      "output_duration": 0.576571,
+      "caption": "\u20ac30k. No feasible plan."
+    },
+    {
+      "scene": 3,
+      "frame": "00004.jpg",
+      "start": 45.564829,
+      "duration": 0.152109,
+      "source_timestamp": 1790043997.399163,
+      "output_start": 45.564829,
+      "output_duration": 0.152109,
+      "caption": "\u20ac30k. No feasible plan."
+    },
+    {
+      "scene": 3,
+      "frame": "00005.jpg",
+      "start": 45.716938,
+      "duration": 0.067879,
+      "source_timestamp": 1790043997.551272,
+      "output_start": 45.716938,
+      "output_duration": 0.067879,
+      "caption": "\u20ac30k. No feasible plan."
+    },
+    {
+      "scene": 3,
+      "frame": "00006.jpg",
+      "start": 45.784817,
+      "duration": 0.107177,
+      "source_timestamp": 1790043997.619151,
+      "output_start": 45.784817,
+      "output_duration": 0.107177,
+      "caption": "\u20ac30k. No feasible plan."
+    },
+    {
+      "scene": 3,
+      "frame": "00007.jpg",
+      "start": 45.891994,
+      "duration": 6.408006,
+      "source_timestamp": 1790043997.726328,
+      "output_start": 45.891994,
+      "output_duration": 6.408006,
+      "caption": "\u20ac30k. No feasible plan."
+    },
+    {
+      "scene": 4,
+      "frame": "00000.jpg",
+      "start": 52.3,
+      "duration": 0.45,
+      "source_timestamp": 1790044021.215081,
+      "output_start": 52.3,
+      "output_duration": 0.45,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 4,
+      "frame": "00001.jpg",
+      "start": 52.75,
+      "duration": 0.161118,
+      "source_timestamp": 1790044021.393053,
+      "output_start": 52.75,
+      "output_duration": 0.161118,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 4,
+      "frame": "00002.jpg",
+      "start": 52.911118,
+      "duration": 0.092012,
+      "source_timestamp": 1790044021.554171,
+      "output_start": 52.911118,
+      "output_duration": 0.092012,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 4,
+      "frame": "00003.jpg",
+      "start": 53.00313,
+      "duration": 0.115694,
+      "source_timestamp": 1790044021.646183,
+      "output_start": 53.00313,
+      "output_duration": 0.115694,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 4,
+      "frame": "00004.jpg",
+      "start": 53.118824,
+      "duration": 0.097992,
+      "source_timestamp": 1790044021.761877,
+      "output_start": 53.118824,
+      "output_duration": 0.097992,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 4,
+      "frame": "00005.jpg",
+      "start": 53.216816,
+      "duration": 0.05,
+      "source_timestamp": 1790044021.859869,
+      "output_start": 53.216816,
+      "output_duration": 0.05,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 4,
+      "frame": "00006.jpg",
+      "start": 53.266816,
+      "duration": 0.173629,
+      "source_timestamp": 1790044021.906874,
+      "output_start": 53.266816,
+      "output_duration": 0.173629,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 4,
+      "frame": "00007.jpg",
+      "start": 53.440445,
+      "duration": 0.369618,
+      "source_timestamp": 1790044022.080503,
+      "output_start": 53.440445,
+      "output_duration": 0.369618,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 4,
+      "frame": "00008.jpg",
+      "start": 53.810063,
+      "duration": 0.05,
+      "source_timestamp": 1790044022.450121,
+      "output_start": 53.810063,
+      "output_duration": 0.05,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 4,
+      "frame": "00009.jpg",
+      "start": 53.860063,
+      "duration": 0.17235,
+      "source_timestamp": 1790044022.474689,
+      "output_start": 53.860063,
+      "output_duration": 0.17235,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 4,
+      "frame": "00010.jpg",
+      "start": 54.032413,
+      "duration": 6.567587,
+      "source_timestamp": 1790044022.647039,
+      "output_start": 54.032413,
+      "output_duration": 6.567587,
+      "caption": "Show exactly what cannot hold together."
+    },
+    {
+      "scene": 5,
+      "frame": "00000.jpg",
+      "start": 60.6,
+      "duration": 0.7,
+      "source_timestamp": 1790044036.70815,
+      "output_start": 60.6,
+      "output_duration": 0.7,
+      "caption": "\u20ac7k more preserves every original minimum."
+    },
+    {
+      "scene": 5,
+      "frame": "00001.jpg",
+      "start": 61.3,
+      "duration": 0.21188,
+      "source_timestamp": 1790044036.984189,
+      "output_start": 61.3,
+      "output_duration": 0.21188,
+      "caption": "\u20ac7k more preserves every original minimum."
+    },
+    {
+      "scene": 5,
+      "frame": "00002.jpg",
+      "start": 61.51188,
+      "duration": 0.357421,
+      "source_timestamp": 1790044037.196069,
+      "output_start": 61.51188,
+      "output_duration": 0.357421,
+      "caption": "\u20ac7k more preserves every original minimum."
+    },
+    {
+      "scene": 5,
+      "frame": "00003.jpg",
+      "start": 61.869301,
+      "duration": 0.219775,
+      "source_timestamp": 1790044037.55349,
+      "output_start": 61.869301,
+      "output_duration": 0.219775,
+      "caption": "\u20ac7k more preserves every original minimum."
+    },
+    {
+      "scene": 5,
+      "frame": "00004.jpg",
+      "start": 62.089076,
+      "duration": 0.138895,
+      "source_timestamp": 1790044037.773265,
+      "output_start": 62.089076,
+      "output_duration": 0.138895,
+      "caption": "\u20ac7k more preserves every original minimum."
+    },
+    {
+      "scene": 5,
+      "frame": "00005.jpg",
+      "start": 62.227971,
+      "duration": 0.110076,
+      "source_timestamp": 1790044037.91216,
+      "output_start": 62.227971,
+      "output_duration": 0.110076,
+      "caption": "\u20ac7k more preserves every original minimum."
+    },
+    {
+      "scene": 5,
+      "frame": "00006.jpg",
+      "start": 62.338047,
+      "duration": 0.106822,
+      "source_timestamp": 1790044038.022236,
+      "output_start": 62.338047,
+      "output_duration": 0.106822,
+      "caption": "\u20ac7k more preserves every original minimum."
+    },
+    {
+      "scene": 5,
+      "frame": "00007.jpg",
+      "start": 62.444869,
+      "duration": 0.127119,
+      "source_timestamp": 1790044038.129058,
+      "output_start": 62.444869,
+      "output_duration": 0.127119,
+      "caption": "\u20ac7k more preserves every original minimum."
+    },
+    {
+      "scene": 5,
+      "frame": "00008.jpg",
+      "start": 62.571988,
+      "duration": 8.828012,
+      "source_timestamp": 1790044038.256177,
+      "output_start": 62.571988,
+      "output_duration": 8.828012,
+      "caption": "\u20ac7k more preserves every original minimum."
+    },
+    {
+      "scene": 6,
+      "frame": "00000.jpg",
+      "start": 71.4,
+      "duration": 0.3,
+      "source_timestamp": 1790044076.138157,
+      "output_start": 71.4,
+      "output_duration": 0.3,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 6,
+      "frame": "00001.jpg",
+      "start": 71.7,
+      "duration": 0.13918,
+      "source_timestamp": 1790044076.37069,
+      "output_start": 71.7,
+      "output_duration": 0.13918,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 6,
+      "frame": "00002.jpg",
+      "start": 71.83918,
+      "duration": 0.171491,
+      "source_timestamp": 1790044076.50987,
+      "output_start": 71.83918,
+      "output_duration": 0.171491,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 6,
+      "frame": "00003.jpg",
+      "start": 72.010671,
+      "duration": 0.060718,
+      "source_timestamp": 1790044076.681361,
+      "output_start": 72.010671,
+      "output_duration": 0.060718,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 6,
+      "frame": "00004.jpg",
+      "start": 72.071389,
+      "duration": 0.05,
+      "source_timestamp": 1790044076.742079,
+      "output_start": 72.071389,
+      "output_duration": 0.05,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 6,
+      "frame": "00005.jpg",
+      "start": 72.121389,
+      "duration": 2.854128,
+      "source_timestamp": 1790044076.788396,
+      "output_start": 72.121389,
+      "output_duration": 2.854128,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 6,
+      "frame": "00007.jpg",
+      "start": 74.975517,
+      "duration": 0.467861,
+      "source_timestamp": 1790044079.748765,
+      "output_start": 74.975517,
+      "output_duration": 0.467861,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 6,
+      "frame": "00008.jpg",
+      "start": 75.443378,
+      "duration": 0.05,
+      "source_timestamp": 1790044080.216626,
+      "output_start": 75.443378,
+      "output_duration": 0.05,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 6,
+      "frame": "00009.jpg",
+      "start": 75.493378,
+      "duration": 0.109491,
+      "source_timestamp": 1790044080.258786,
+      "output_start": 75.493378,
+      "output_duration": 0.109491,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 6,
+      "frame": "00010.jpg",
+      "start": 75.602869,
+      "duration": 0.371935,
+      "source_timestamp": 1790044080.368277,
+      "output_start": 75.602869,
+      "output_duration": 0.371935,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 6,
+      "frame": "00011.jpg",
+      "start": 75.974804,
+      "duration": 4.325196,
+      "source_timestamp": 1790044080.740212,
+      "output_start": 75.974804,
+      "output_duration": 4.325196,
+      "caption": "Export the assumptions and the certificate."
+    },
+    {
+      "scene": 7,
+      "frame": "00000.jpg",
+      "start": 80.3,
+      "duration": 0.2,
+      "source_timestamp": 1790044098.44724,
+      "output_start": 80.3,
+      "output_duration": 0.2,
+      "caption": "A facilitated pilot with residents."
+    },
+    {
+      "scene": 7,
+      "frame": "00001.jpg",
+      "start": 80.5,
+      "duration": 0.15575,
+      "source_timestamp": 1790044098.507609,
+      "output_start": 80.5,
+      "output_duration": 0.15575,
+      "caption": "A facilitated pilot with residents."
+    },
+    {
+      "scene": 7,
+      "frame": "00002.jpg",
+      "start": 80.65575,
+      "duration": 0.470542,
+      "source_timestamp": 1790044098.663359,
+      "output_start": 80.65575,
+      "output_duration": 0.470542,
+      "caption": "A facilitated pilot with residents."
+    },
+    {
+      "scene": 7,
+      "frame": "00003.jpg",
+      "start": 81.126292,
+      "duration": 0.05,
+      "source_timestamp": 1790044099.133901,
+      "output_start": 81.126292,
+      "output_duration": 0.05,
+      "caption": "A facilitated pilot with residents."
+    },
+    {
+      "scene": 7,
+      "frame": "00004.jpg",
+      "start": 81.176292,
+      "duration": 0.057733,
+      "source_timestamp": 1790044099.157652,
+      "output_start": 81.176292,
+      "output_duration": 0.057733,
+      "caption": "A facilitated pilot with residents."
+    },
+    {
+      "scene": 7,
+      "frame": "00005.jpg",
+      "start": 81.234025,
+      "duration": 0.156169,
+      "source_timestamp": 1790044099.215385,
+      "output_start": 81.234025,
+      "output_duration": 0.156169,
+      "caption": "A facilitated pilot with residents."
+    },
+    {
+      "scene": 7,
+      "frame": "00006.jpg",
+      "start": 81.390194,
+      "duration": 0.054976,
+      "source_timestamp": 1790044099.371554,
+      "output_start": 81.390194,
+      "output_duration": 0.054976,
+      "caption": "A facilitated pilot with residents."
+    },
+    {
+      "scene": 7,
+      "frame": "00007.jpg",
+      "start": 81.44517,
+      "duration": 11.4,
+      "source_timestamp": 1790044099.42653,
+      "output_start": 81.44517,
+      "output_duration": 11.15483,
+      "caption": "A facilitated pilot with residents."
+    },
+    {
+      "scene": 7,
+      "frame": "00007.jpg",
+      "start": 81.44517,
+      "duration": 11.4,
+      "source_timestamp": 1790044099.42653,
+      "output_start": 92.6,
+      "output_duration": 0.24517,
+      "caption": "Make the compromise visible."
+    },
+    {
+      "scene": 7,
+      "frame": "00008.jpg",
+      "start": 92.84517,
+      "duration": 0.131443,
+      "source_timestamp": 1790044102.042536,
+      "output_start": 92.84517,
+      "output_duration": 0.131443,
+      "caption": "Make the compromise visible."
+    },
+    {
+      "scene": 7,
+      "frame": "00009.jpg",
+      "start": 92.976613,
+      "duration": 0.382269,
+      "source_timestamp": 1790044102.173979,
+      "output_start": 92.976613,
+      "output_duration": 0.382269,
+      "caption": "Make the compromise visible."
+    },
+    {
+      "scene": 7,
+      "frame": "00010.jpg",
+      "start": 93.358882,
+      "duration": 0.05,
+      "source_timestamp": 1790044102.556248,
+      "output_start": 93.358882,
+      "output_duration": 0.05,
+      "caption": "Make the compromise visible."
+    },
+    {
+      "scene": 7,
+      "frame": "00011.jpg",
+      "start": 93.408882,
+      "duration": 0.126022,
+      "source_timestamp": 1790044102.605202,
+      "output_start": 93.408882,
+      "output_duration": 0.126022,
+      "caption": "Make the compromise visible."
+    },
+    {
+      "scene": 7,
+      "frame": "00012.jpg",
+      "start": 93.534904,
+      "duration": 0.06332,
+      "source_timestamp": 1790044102.731224,
+      "output_start": 93.534904,
+      "output_duration": 0.06332,
+      "caption": "Make the compromise visible."
+    },
+    {
+      "scene": 7,
+      "frame": "00013.jpg",
+      "start": 93.598224,
+      "duration": 0.103154,
+      "source_timestamp": 1790044102.794544,
+      "output_start": 93.598224,
+      "output_duration": 0.103154,
+      "caption": "Make the compromise visible."
+    },
+    {
+      "scene": 7,
+      "frame": "00014.jpg",
+      "start": 93.701378,
+      "duration": 6.298622,
+      "source_timestamp": 1790044102.897698,
+      "output_start": 93.701378,
+      "output_duration": 6.298622,
+      "caption": "Make the compromise visible."
+    }
+  ]
+}
