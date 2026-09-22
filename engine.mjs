@@ -249,12 +249,16 @@ export function validate(c) {
     for (const r of rules)
       if (!Number.isFinite(c[group]?.[r.id]) || c[group][r.id] < 0)
         throw Error(group + " " + r.id + " must be non-negative");
-  for (const k of ["locked", "excluded"])
+  for (const k of ["locked", "excluded"]) {
+    if (Array.isArray(c[k]) &&
+        (c[k].length > interventions.length || new Set(c[k]).size !== c[k].length))
+      throw Error(k + " must contain each intervention at most once");
     if (
       !Array.isArray(c[k]) ||
       c[k].some((id) => !interventions.some((x) => x.id === id))
     )
       throw Error("Unknown intervention");
+  }
   if (c.locked.some((id) => c.excluded.includes(id)))
     throw Error("An intervention cannot be both protected and excluded");
   return c;

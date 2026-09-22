@@ -26,7 +26,7 @@ The exact visual plan is a concept drawing. Costs, spatial units, care units and
 
 ## Validation
 
-Eleven meaningful local tests passed on September 21, 2026. The browser export was opened in the new reader, reproduced the €37k plan, and rejected an altered saved count without retaining the prior success state. Hosted CI has not been verified. See the [recorded demo and captions](media/README.md).
+Twelve meaningful local tests passed on September 21, 2026. The browser export was opened in the new reader, reproduced the €37k plan, and rejected an altered saved count without retaining the prior success state. Hosted CI has not been verified. See the [recorded demo and captions](media/README.md).
 
 ## Run
 
