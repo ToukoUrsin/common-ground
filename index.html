@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+  <meta charset="utf-8" /><meta
+    name="viewport"
+    content="width=device-width,initial-scale=1"
+  /><meta
+    name="description"
+    content="A public-space design studio that makes community tradeoffs visible and checks every option."
+  /><title>Common Ground — A place for all of us</title
+  ><link rel="stylesheet" href="style.css" />
+  <body>
+    <header>
+      <a class="brand" href="#"
+        ><span class="mark">c<span>g</span></span> common ground<span
+          class="beta"
+          >DESIGN STUDIO</span
+        ></a
+      >
+      <nav>
+        <button id="how">How it works</button
+        ><button id="export">Export proposal ↗</button>
+      </nav>
+    </header>
+    <main>
+      <section class="intro">
+        <div>
+          <span class="eyebrow">SMALL SPACES. SHARED POSSIBILITIES.</span>
+          <h1>A place for <em>all of us.</em></h1>
+          <p>
+            What could this corner become? Bring the budget, protect what
+            matters,<br class="desktop" />
+            and explore the possibilities together.
+          </p>
+        </div>
+        <div class="place">
+          <span class="pin">◎</span>
+          <div>
+            <b>Willow Street Pocket Park</b
+            ><span>Illustrative site · 600 m² · Community workshop</span>
+          </div>
+          <span class="live">● SAVED ON THIS DEVICE</span>
+        </div>
+      </section>
+      <section class="workspace" id="studio">
+        <aside class="controls">
+          <div class="section-title">
+            <span class="step">01</span>
+            <h2>Set our priorities</h2>
+          </div>
+          <div class="scenario-tabs">
+            <button class="active" data-scenario="balanced">
+              A shared starting point</button
+            ><button data-scenario="heat">A hotter summer</button
+            ><button data-scenario="cut">The budget changes</button>
+          </div>
+          <label class="budget-label" for="budget"
+            >Our investment <output id="budget-out"></output></label
+          ><input
+            type="range"
+            id="budget"
+            min="15"
+            max="100"
+            step="1"
+            aria-label="Investment budget in thousands of euros"
+          />
+          <div class="scale"><span>€15k</span><span>€100k</span></div>
+          <div class="divider"></div>
+          <h3>What must the space offer?</h3>
+          <p class="small">
+            Minimum design points, chosen together. These are workshop
+            assumptions, not measured impacts.
+          </p>
+          <div id="priorities"></div>
+          <details class="limits">
+            <summary>Space & ongoing care</summary>
+            <label
+              >Space units
+              <input type="number" id="space" min="0" max="30" /></label
+            ><label
+              >Care capacity
+              <input type="number" id="maintenance" min="0" max="30"
+            /></label>
+          </details>
+          <button id="reset" class="text-button">↺ Reset this workshop</button>
+        </aside>
+        <section class="canvas-panel">
+          <div class="canvas-top">
+            <div class="section-title">
+              <span class="step">02</span>
+              <h2>See a possibility</h2>
+            </div>
+            <span id="status-pill" class="pill"></span>
+          </div>
+          <div class="park-stage">
+            <svg
+              id="park"
+              viewBox="0 0 760 490"
+              role="img"
+              aria-label="Illustrative pocket park with the selected interventions"
+            ></svg>
+            <div class="map-label">
+              <span>WILLOW STREET</span>
+              <div>↗ N</div>
+            </div>
+            <div class="map-note">CONCEPT PLAN · NOT TO SCALE</div>
+          </div>
+          <div id="outcome" aria-live="polite"></div>
+          <div class="canvas-bottom">
+            <span id="proof-status">◎ Every combination checked</span
+            ><button id="certificate">Inspect the reasoning →</button>
+          </div>
+        </section>
+        <aside class="choices">
+          <div class="section-title">
+            <span class="step">03</span>
+            <h2>Make it yours</h2>
+          </div>
+          <p class="small">
+            Protect a favorite. Leave something out.<br />The rest of the plan
+            will find its balance.
+          </p>
+          <div id="interventions"></div>
+        </aside>
+      </section>
+      <section id="reasoning" class="reasoning hidden">
+        <div>
+          <span class="eyebrow">A DECISION YOU CAN INSPECT</span>
+          <h2 id="reason-title"></h2>
+          <p id="reason-copy"></p>
+        </div>
+        <div id="reason-detail"></div>
+      </section>
+      <section class="below">
+        <div>
+          <span class="eyebrow">BETTER CONVERSATIONS, BEFORE CONSTRUCTION</span>
+          <h2>Every “what if” deserves<br />a visible answer.</h2>
+        </div>
+        <div class="principle">
+          <span>01 / HUMAN PRIORITIES</span>
+          <h3>You decide what matters.</h3>
+          <p>
+            The community sets the requirements. The system never silently
+            trades away an accessibility or shade commitment.
+          </p>
+        </div>
+        <div class="principle">
+          <span>02 / HONEST TRADEOFFS</span>
+          <h3>See what would have to change.</h3>
+          <p>
+            When a plan is impossible, inspect the exact conflicting
+            requirements and the smallest single change that could make it work.
+          </p>
+        </div>
+        <div class="principle">
+          <span>03 / OPEN ASSUMPTIONS</span>
+          <h3>Bring it to the workshop.</h3>
+          <p>
+            Export the whole scenario, selected interventions, costs and
+            verification result. Replace example assumptions with local
+            estimates before decisions.
+          </p>
+        </div>
+      </section>
+      <footer>
+        Designed with communities in mind. Built to make the conversation
+        clearer.<span
+          >Original prototype · September 2026 · All costs and scores
+          illustrative</span
+        >
+      </footer>
+    </main>
+    <dialog id="info">
+      <button id="close-info" aria-label="Close">×</button
+      ><span class="eyebrow">COMMON GROUND</span>
+      <h2>Make the choices.<br />Understand the consequences.</h2>
+      <p>
+        This working prototype examines every one of the 4,096 combinations of
+        twelve interventions. It enforces your budget, space, care capacity,
+        minimum priorities, and protected choices.
+      </p>
+      <p>
+        Among feasible combinations, it maximizes the sum of design points. Ties
+        favor lower cost and then less care. Scores and costs are transparent
+        illustrative inputs; they are not forecasts, construction quotes,
+        environmental measurements, or validated community preferences.
+      </p>
+      <p>
+        If nothing fits, the engine isolates an <b>irreducible conflict</b>:
+        remove any requirement in that set and the conflict disappears. This is
+        not necessarily the smallest possible conflict. Repair suggestions relax
+        just one requirement, preserving all others.
+      </p>
+      <p>
+        Everything runs in your browser. No account, analytics, AI API, or data
+        upload. Your current workshop is stored locally. Exports include a
+        certificate you can verify with the open-source engine.
+      </p>
+    </dialog>
+    <script type="module" src="app.mjs"></script>
+  </body>
+</html>
