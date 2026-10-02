@@ -1,0 +1,9 @@
+/Users/touko/work/personal/hackathons/2026-autumn-campaign/projects/common-ground/media/v2/build-park.py:13: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  rgb=tuple(int(hex[i:i+2],16)/255 for i in (0,2,4));rgb=tuple(c/12.92 if c<=.04045 else ((c+.055)/1.055)**2.4 for c in rgb);m=bpy.data.materials.new(name);m.diffuse_color=(*rgb,1);m.use_nodes=True
+00:21.565  render           | Saved: '/Users/touko/work/personal/hackathons/2026-autumn-campaign/projects/common-ground/media/v2/park-preview-assembled.png'
+00:27.324  render           | Saved: '/Users/touko/work/personal/hackathons/2026-autumn-campaign/projects/common-ground/media/v2/park-preview-exploded.png'
+Info: Saved as "common-ground-park.blend"
+Saved original park scene. Preview frame200; animation1–300. Full animation not rendered.
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

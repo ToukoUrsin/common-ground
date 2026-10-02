@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-09-22T06:25:16.514159+00:00",
+  "status": "queued_after_bounded_wait",
+  "job": "commonground-v2-final-encode-20260922-0613",
+  "owner": "commonground",
+  "position": 15,
+  "active_job": "quoting-vertical20-final",
+  "waiter_exit_code": 0,
+  "waiter_session": 36735,
+  "waiter_pid": 58548,
+  "waiter_running": false,
+  "encode_started": false,
+  "final_mp4_exists": false,
+  "preflight": "passed",
+  "follow_up": "Run encode-queued.py once when ready to resume; it still requires this exact named queue grant. No visual or sound review of a final film has occurred.",
+  "queue_status": "cancelled by root after waiter exited; no orphan reservation",
+  "resume_requirement": "enqueue a fresh unique job ID and update bounded executor before waiting"
+}

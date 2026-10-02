@@ -1,0 +1,111 @@
+1
+00:00:00,000 --> 00:00:01,920
+Thirty thousand euros.
+
+2
+00:00:01,920 --> 00:00:03,760
+Four community commitments.
+
+3
+00:00:03,760 --> 00:00:06,220
+No plan that can satisfy them all.
+
+4
+00:00:06,220 --> 00:00:10,400
+Common Ground makes that conflict visible, before anyone builds.
+
+5
+00:00:10,500 --> 00:00:14,520
+Here, residents set the budget and minimums for shade, access,
+
+6
+00:00:14,520 --> 00:00:16,200
+play and rain.
+
+7
+00:00:16,200 --> 00:00:19,520
+These are illustrative design points, not measured impacts.
+
+8
+00:00:19,550 --> 00:00:22,990
+The studio checks all four thousand and ninety-six combinations
+
+9
+00:00:22,990 --> 00:00:24,970
+of twelve interventions.
+
+10
+00:00:24,970 --> 00:00:28,210
+At thirty thousand, the commitments cannot all hold.
+
+11
+00:00:28,400 --> 00:00:33,140
+Inspect the certificate: budget, shade, access and rain form
+
+12
+00:00:33,140 --> 00:00:35,080
+an irreducible conflict.
+
+13
+00:00:35,080 --> 00:00:36,760
+We could lower a target.
+
+14
+00:00:36,760 --> 00:00:38,120
+Or change the budget.
+
+15
+00:00:38,150 --> 00:00:42,230
+Seven thousand euros more preserves every original minimum.
+
+16
+00:00:42,230 --> 00:00:43,630
+One plan survives.
+
+17
+00:00:43,650 --> 00:00:45,150
+A grove of trees.
+
+18
+00:00:45,150 --> 00:00:46,530
+An accessible loop.
+
+19
+00:00:46,530 --> 00:00:47,890
+A wildflower patch.
+
+20
+00:00:47,890 --> 00:00:49,270
+A table for everyone.
+
+21
+00:00:49,300 --> 00:00:52,300
+The result is something you can take away.
+
+22
+00:00:52,300 --> 00:00:55,320
+Export the proposal, then open the actual file.
+
+23
+00:00:55,350 --> 00:00:57,770
+The reader reruns the full search.
+
+24
+00:00:57,770 --> 00:01:01,450
+Costs, commitments and the selected plan agree.
+
+25
+00:01:01,450 --> 00:01:04,670
+Change the saved result, and verification fails.
+
+26
+00:01:04,700 --> 00:01:09,120
+The next step is a real workshop, with local costs and residents.
+
+27
+00:01:09,120 --> 00:01:10,460
+Common Ground.
+
+28
+00:01:10,460 --> 00:01:12,100
+Make the compromise visible.

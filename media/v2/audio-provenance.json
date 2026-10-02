@@ -1,0 +1,11 @@
+{
+  "score": "Original procedural composition, synthesized by audio.py; no sampled music",
+  "sample_rate": 48000,
+  "stems": [
+    "music.wav",
+    "sound.wav"
+  ],
+  "narration": "ElevenLabs stock synthetic voice; exact local Whisper alignment in alignment.json",
+  "subjectively_listened": false,
+  "mix_review": "Pending full normal-speed audio/video review"
+}

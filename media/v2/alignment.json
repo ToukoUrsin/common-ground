@@ -1,0 +1,1377 @@
+{
+  "schema": "common-ground.audio-alignment.v1",
+  "source_text": "Thirty thousand euros. Four community commitments. No plan that can satisfy them all.\nCommon Ground makes that conflict visible, before anyone builds.\nHere, residents set the budget and minimums for shade, access, play and rain. These are illustrative design points, not measured impacts.\nThe studio checks all four thousand and ninety-six combinations of twelve interventions. At thirty thousand, the commitments cannot all hold.\nInspect the certificate: budget, shade, access and rain form an irreducible conflict. We could lower a target. Or change the budget.\nSeven thousand euros more preserves every original minimum. One plan survives.\nA grove of trees. An accessible loop. A wildflower patch. A table for everyone.\nThe result is something you can take away. Export the proposal, then open the actual file.\nThe reader reruns the full search. Costs, commitments and the selected plan agree. Change the saved result, and verification fails.\nThe next step is a real workshop, with local costs and residents.\nCommon Ground. Make the compromise visible.",
+  "duration": 72.121179,
+  "method": "Whisper base.en local forced cross-attention DTW on authored text, ASR-guided chunks",
+  "audio_sha256": "99542bd0db8cbb773dc96c4317d6e85f0206bba9ccbae6509ddf5c35b9b2b6d0",
+  "model_sha256": "25a8566e1d0c1e2231d1c762132cd20e0f96a85d16145c3a00adf5d1ac670ead",
+  "subjectively_listened": false,
+  "timing_note": "Machine estimated, 20 ms model resolution. No manual listening or phonetic verification. Chunk starts can slightly precede audible word onset.",
+  "chunks": [
+    {
+      "start": 0,
+      "end": 10.5,
+      "text": "Thirty thousand euros. Four community commitments. No plan that can satisfy them all. Common Ground makes that conflict visible, before anyone builds."
+    },
+    {
+      "start": 10.5,
+      "end": 19.55,
+      "text": "Here, residents set the budget and minimums for shade, access, play and rain. These are illustrative design points, not measured impacts."
+    },
+    {
+      "start": 19.55,
+      "end": 28.4,
+      "text": "The studio checks all four thousand and ninety-six combinations of twelve interventions. At thirty thousand, the commitments cannot all hold."
+    },
+    {
+      "start": 28.4,
+      "end": 38.15,
+      "text": "Inspect the certificate: budget, shade, access and rain form an irreducible conflict. We could lower a target. Or change the budget."
+    },
+    {
+      "start": 38.15,
+      "end": 43.65,
+      "text": "Seven thousand euros more preserves every original minimum. One plan survives."
+    },
+    {
+      "start": 43.65,
+      "end": 49.3,
+      "text": "A grove of trees. An accessible loop. A wildflower patch. A table for everyone."
+    },
+    {
+      "start": 49.3,
+      "end": 55.35,
+      "text": "The result is something you can take away. Export the proposal, then open the actual file."
+    },
+    {
+      "start": 55.35,
+      "end": 64.7,
+      "text": "The reader reruns the full search. Costs, commitments and the selected plan agree. Change the saved result, and verification fails."
+    },
+    {
+      "start": 64.7,
+      "end": 72.121179,
+      "text": "The next step is a real workshop, with local costs and residents. Common Ground. Make the compromise visible."
+    }
+  ],
+  "words": [
+    {
+      "text": "Thirty",
+      "start": 0.0,
+      "end": 0.32,
+      "token_probability": 0.0445
+    },
+    {
+      "text": "thousand",
+      "start": 0.32,
+      "end": 0.8,
+      "token_probability": 0.8368
+    },
+    {
+      "text": "euros.",
+      "start": 0.8,
+      "end": 1.92,
+      "token_probability": 0.8528
+    },
+    {
+      "text": "Four",
+      "start": 1.92,
+      "end": 2.04,
+      "token_probability": 0.762
+    },
+    {
+      "text": "community",
+      "start": 2.04,
+      "end": 2.52,
+      "token_probability": 0.9764
+    },
+    {
+      "text": "commitments.",
+      "start": 2.52,
+      "end": 3.76,
+      "token_probability": 0.9976
+    },
+    {
+      "text": "No",
+      "start": 3.76,
+      "end": 3.84,
+      "token_probability": 0.9946
+    },
+    {
+      "text": "plan",
+      "start": 3.84,
+      "end": 4.16,
+      "token_probability": 0.992
+    },
+    {
+      "text": "that",
+      "start": 4.16,
+      "end": 4.36,
+      "token_probability": 0.9932
+    },
+    {
+      "text": "can",
+      "start": 4.36,
+      "end": 4.5,
+      "token_probability": 0.9978
+    },
+    {
+      "text": "satisfy",
+      "start": 4.5,
+      "end": 4.88,
+      "token_probability": 0.9989
+    },
+    {
+      "text": "them",
+      "start": 4.88,
+      "end": 5.2,
+      "token_probability": 0.9985
+    },
+    {
+      "text": "all.",
+      "start": 5.2,
+      "end": 6.22,
+      "token_probability": 0.9945
+    },
+    {
+      "text": "Common",
+      "start": 6.22,
+      "end": 6.46,
+      "token_probability": 0.975
+    },
+    {
+      "text": "Ground",
+      "start": 6.46,
+      "end": 6.82,
+      "token_probability": 0.0438
+    },
+    {
+      "text": "makes",
+      "start": 6.82,
+      "end": 7.14,
+      "token_probability": 0.9941
+    },
+    {
+      "text": "that",
+      "start": 7.14,
+      "end": 7.4,
+      "token_probability": 0.9964
+    },
+    {
+      "text": "conflict",
+      "start": 7.4,
+      "end": 7.74,
+      "token_probability": 0.9945
+    },
+    {
+      "text": "visible,",
+      "start": 7.74,
+      "end": 8.56,
+      "token_probability": 0.9941
+    },
+    {
+      "text": "before",
+      "start": 8.56,
+      "end": 8.82,
+      "token_probability": 0.998
+    },
+    {
+      "text": "anyone",
+      "start": 8.82,
+      "end": 9.22,
+      "token_probability": 0.9768
+    },
+    {
+      "text": "builds.",
+      "start": 9.22,
+      "end": 10.4,
+      "token_probability": 0.996
+    },
+    {
+      "text": "Here,",
+      "start": 10.5,
+      "end": 11.06,
+      "token_probability": 0.8917
+    },
+    {
+      "text": "residents",
+      "start": 11.06,
+      "end": 11.32,
+      "token_probability": 0.8866
+    },
+    {
+      "text": "set",
+      "start": 11.32,
+      "end": 11.6,
+      "token_probability": 0.999
+    },
+    {
+      "text": "the",
+      "start": 11.6,
+      "end": 11.8,
+      "token_probability": 0.9963
+    },
+    {
+      "text": "budget",
+      "start": 11.8,
+      "end": 12.06,
+      "token_probability": 0.9641
+    },
+    {
+      "text": "and",
+      "start": 12.06,
+      "end": 12.3,
+      "token_probability": 0.978
+    },
+    {
+      "text": "minimums",
+      "start": 12.3,
+      "end": 12.8,
+      "token_probability": 0.9751
+    },
+    {
+      "text": "for",
+      "start": 12.8,
+      "end": 12.96,
+      "token_probability": 0.9981
+    },
+    {
+      "text": "shade,",
+      "start": 12.96,
+      "end": 13.66,
+      "token_probability": 0.9746
+    },
+    {
+      "text": "access,",
+      "start": 13.66,
+      "end": 14.52,
+      "token_probability": 0.949
+    },
+    {
+      "text": "play",
+      "start": 14.52,
+      "end": 14.72,
+      "token_probability": 0.9944
+    },
+    {
+      "text": "and",
+      "start": 14.72,
+      "end": 15.02,
+      "token_probability": 0.7877
+    },
+    {
+      "text": "rain.",
+      "start": 15.02,
+      "end": 16.2,
+      "token_probability": 0.9705
+    },
+    {
+      "text": "These",
+      "start": 16.2,
+      "end": 16.32,
+      "token_probability": 0.9954
+    },
+    {
+      "text": "are",
+      "start": 16.32,
+      "end": 16.48,
+      "token_probability": 0.9985
+    },
+    {
+      "text": "illustrative",
+      "start": 16.48,
+      "end": 17.04,
+      "token_probability": 0.9891
+    },
+    {
+      "text": "design",
+      "start": 17.04,
+      "end": 17.36,
+      "token_probability": 0.9971
+    },
+    {
+      "text": "points,",
+      "start": 17.36,
+      "end": 18.1,
+      "token_probability": 0.9984
+    },
+    {
+      "text": "not",
+      "start": 18.1,
+      "end": 18.22,
+      "token_probability": 0.9971
+    },
+    {
+      "text": "measured",
+      "start": 18.22,
+      "end": 18.54,
+      "token_probability": 0.9919
+    },
+    {
+      "text": "impacts.",
+      "start": 18.54,
+      "end": 19.52,
+      "token_probability": 0.9959
+    },
+    {
+      "text": "The",
+      "start": 19.55,
+      "end": 19.87,
+      "token_probability": 0.7299
+    },
+    {
+      "text": "studio",
+      "start": 19.87,
+      "end": 20.17,
+      "token_probability": 0.9132
+    },
+    {
+      "text": "checks",
+      "start": 20.17,
+      "end": 20.59,
+      "token_probability": 0.9964
+    },
+    {
+      "text": "all",
+      "start": 20.59,
+      "end": 20.95,
+      "token_probability": 0.9945
+    },
+    {
+      "text": "four",
+      "start": 20.95,
+      "end": 21.15,
+      "token_probability": 0.0278
+    },
+    {
+      "text": "thousand",
+      "start": 21.15,
+      "end": 21.63,
+      "token_probability": 0.961
+    },
+    {
+      "text": "and",
+      "start": 21.63,
+      "end": 21.89,
+      "token_probability": 0.9844
+    },
+    {
+      "text": "ninety-six",
+      "start": 21.89,
+      "end": 22.41,
+      "token_probability": 0.9697
+    },
+    {
+      "text": "combinations",
+      "start": 22.41,
+      "end": 22.99,
+      "token_probability": 0.9872
+    },
+    {
+      "text": "of",
+      "start": 22.99,
+      "end": 23.29,
+      "token_probability": 0.9973
+    },
+    {
+      "text": "twelve",
+      "start": 23.29,
+      "end": 23.61,
+      "token_probability": 0.867
+    },
+    {
+      "text": "interventions.",
+      "start": 23.61,
+      "end": 24.97,
+      "token_probability": 0.9902
+    },
+    {
+      "text": "At",
+      "start": 24.97,
+      "end": 25.13,
+      "token_probability": 0.997
+    },
+    {
+      "text": "thirty",
+      "start": 25.13,
+      "end": 25.47,
+      "token_probability": 0.9202
+    },
+    {
+      "text": "thousand,",
+      "start": 25.47,
+      "end": 26.25,
+      "token_probability": 0.8975
+    },
+    {
+      "text": "the",
+      "start": 26.25,
+      "end": 26.35,
+      "token_probability": 0.9957
+    },
+    {
+      "text": "commitments",
+      "start": 26.35,
+      "end": 26.67,
+      "token_probability": 0.9903
+    },
+    {
+      "text": "cannot",
+      "start": 26.67,
+      "end": 27.09,
+      "token_probability": 0.9785
+    },
+    {
+      "text": "all",
+      "start": 27.09,
+      "end": 27.55,
+      "token_probability": 0.9854
+    },
+    {
+      "text": "hold.",
+      "start": 27.55,
+      "end": 28.21,
+      "token_probability": 0.9939
+    },
+    {
+      "text": "Inspect",
+      "start": 28.4,
+      "end": 29.18,
+      "token_probability": 0.8993
+    },
+    {
+      "text": "the",
+      "start": 29.18,
+      "end": 29.4,
+      "token_probability": 0.9947
+    },
+    {
+      "text": "certificate:",
+      "start": 29.4,
+      "end": 30.46,
+      "token_probability": 0.8431
+    },
+    {
+      "text": "budget,",
+      "start": 30.46,
+      "end": 31.12,
+      "token_probability": 0.4735
+    },
+    {
+      "text": "shade,",
+      "start": 31.12,
+      "end": 31.72,
+      "token_probability": 0.9671
+    },
+    {
+      "text": "access",
+      "start": 31.72,
+      "end": 32.06,
+      "token_probability": 0.9758
+    },
+    {
+      "text": "and",
+      "start": 32.06,
+      "end": 32.36,
+      "token_probability": 0.8287
+    },
+    {
+      "text": "rain",
+      "start": 32.36,
+      "end": 32.68,
+      "token_probability": 0.845
+    },
+    {
+      "text": "form",
+      "start": 32.68,
+      "end": 33.14,
+      "token_probability": 0.8315
+    },
+    {
+      "text": "an",
+      "start": 33.14,
+      "end": 33.36,
+      "token_probability": 0.9873
+    },
+    {
+      "text": "irreducible",
+      "start": 33.36,
+      "end": 34.0,
+      "token_probability": 0.9739
+    },
+    {
+      "text": "conflict.",
+      "start": 34.0,
+      "end": 35.08,
+      "token_probability": 0.9988
+    },
+    {
+      "text": "We",
+      "start": 35.08,
+      "end": 35.14,
+      "token_probability": 0.9963
+    },
+    {
+      "text": "could",
+      "start": 35.14,
+      "end": 35.34,
+      "token_probability": 0.9946
+    },
+    {
+      "text": "lower",
+      "start": 35.34,
+      "end": 35.52,
+      "token_probability": 0.9986
+    },
+    {
+      "text": "a",
+      "start": 35.52,
+      "end": 35.74,
+      "token_probability": 0.9534
+    },
+    {
+      "text": "target.",
+      "start": 35.74,
+      "end": 36.76,
+      "token_probability": 0.9972
+    },
+    {
+      "text": "Or",
+      "start": 36.76,
+      "end": 36.84,
+      "token_probability": 0.9558
+    },
+    {
+      "text": "change",
+      "start": 36.84,
+      "end": 37.18,
+      "token_probability": 0.9825
+    },
+    {
+      "text": "the",
+      "start": 37.18,
+      "end": 37.36,
+      "token_probability": 0.9988
+    },
+    {
+      "text": "budget.",
+      "start": 37.36,
+      "end": 38.12,
+      "token_probability": 0.9872
+    },
+    {
+      "text": "Seven",
+      "start": 38.15,
+      "end": 38.47,
+      "token_probability": 0.0598
+    },
+    {
+      "text": "thousand",
+      "start": 38.47,
+      "end": 38.93,
+      "token_probability": 0.7033
+    },
+    {
+      "text": "euros",
+      "start": 38.93,
+      "end": 39.29,
+      "token_probability": 0.9427
+    },
+    {
+      "text": "more",
+      "start": 39.29,
+      "end": 39.79,
+      "token_probability": 0.9362
+    },
+    {
+      "text": "preserves",
+      "start": 39.79,
+      "end": 40.19,
+      "token_probability": 0.9864
+    },
+    {
+      "text": "every",
+      "start": 40.19,
+      "end": 40.59,
+      "token_probability": 0.9969
+    },
+    {
+      "text": "original",
+      "start": 40.59,
+      "end": 41.05,
+      "token_probability": 0.991
+    },
+    {
+      "text": "minimum.",
+      "start": 41.05,
+      "end": 42.23,
+      "token_probability": 0.996
+    },
+    {
+      "text": "One",
+      "start": 42.23,
+      "end": 42.35,
+      "token_probability": 0.9855
+    },
+    {
+      "text": "plan",
+      "start": 42.35,
+      "end": 42.73,
+      "token_probability": 0.9885
+    },
+    {
+      "text": "survives.",
+      "start": 42.73,
+      "end": 43.63,
+      "token_probability": 0.9991
+    },
+    {
+      "text": "A",
+      "start": 43.65,
+      "end": 43.87,
+      "token_probability": 0.5519
+    },
+    {
+      "text": "grove",
+      "start": 43.87,
+      "end": 44.25,
+      "token_probability": 0.9316
+    },
+    {
+      "text": "of",
+      "start": 44.25,
+      "end": 44.31,
+      "token_probability": 0.9985
+    },
+    {
+      "text": "trees.",
+      "start": 44.31,
+      "end": 45.15,
+      "token_probability": 0.9961
+    },
+    {
+      "text": "An",
+      "start": 45.15,
+      "end": 45.23,
+      "token_probability": 0.9576
+    },
+    {
+      "text": "accessible",
+      "start": 45.23,
+      "end": 45.69,
+      "token_probability": 0.9899
+    },
+    {
+      "text": "loop.",
+      "start": 45.69,
+      "end": 46.53,
+      "token_probability": 0.8958
+    },
+    {
+      "text": "A",
+      "start": 46.53,
+      "end": 46.59,
+      "token_probability": 0.9958
+    },
+    {
+      "text": "wildflower",
+      "start": 46.59,
+      "end": 47.09,
+      "token_probability": 0.9008
+    },
+    {
+      "text": "patch.",
+      "start": 47.09,
+      "end": 47.89,
+      "token_probability": 0.9976
+    },
+    {
+      "text": "A",
+      "start": 47.89,
+      "end": 47.99,
+      "token_probability": 0.9953
+    },
+    {
+      "text": "table",
+      "start": 47.99,
+      "end": 48.21,
+      "token_probability": 0.9975
+    },
+    {
+      "text": "for",
+      "start": 48.21,
+      "end": 48.45,
+      "token_probability": 0.9983
+    },
+    {
+      "text": "everyone.",
+      "start": 48.45,
+      "end": 49.27,
+      "token_probability": 0.9956
+    },
+    {
+      "text": "The",
+      "start": 49.3,
+      "end": 49.7,
+      "token_probability": 0.9232
+    },
+    {
+      "text": "result",
+      "start": 49.7,
+      "end": 50.0,
+      "token_probability": 0.9949
+    },
+    {
+      "text": "is",
+      "start": 50.0,
+      "end": 50.24,
+      "token_probability": 0.9983
+    },
+    {
+      "text": "something",
+      "start": 50.24,
+      "end": 50.5,
+      "token_probability": 0.9987
+    },
+    {
+      "text": "you",
+      "start": 50.5,
+      "end": 50.66,
+      "token_probability": 0.9935
+    },
+    {
+      "text": "can",
+      "start": 50.66,
+      "end": 50.82,
+      "token_probability": 0.9979
+    },
+    {
+      "text": "take",
+      "start": 50.82,
+      "end": 51.02,
+      "token_probability": 0.9973
+    },
+    {
+      "text": "away.",
+      "start": 51.02,
+      "end": 52.3,
+      "token_probability": 0.9993
+    },
+    {
+      "text": "Export",
+      "start": 52.3,
+      "end": 52.66,
+      "token_probability": 0.9222
+    },
+    {
+      "text": "the",
+      "start": 52.66,
+      "end": 52.88,
+      "token_probability": 0.9987
+    },
+    {
+      "text": "proposal,",
+      "start": 52.88,
+      "end": 53.74,
+      "token_probability": 0.9044
+    },
+    {
+      "text": "then",
+      "start": 53.74,
+      "end": 53.86,
+      "token_probability": 0.9939
+    },
+    {
+      "text": "open",
+      "start": 53.86,
+      "end": 54.02,
+      "token_probability": 0.9938
+    },
+    {
+      "text": "the",
+      "start": 54.02,
+      "end": 54.24,
+      "token_probability": 0.9982
+    },
+    {
+      "text": "actual",
+      "start": 54.24,
+      "end": 54.48,
+      "token_probability": 0.9841
+    },
+    {
+      "text": "file.",
+      "start": 54.48,
+      "end": 55.32,
+      "token_probability": 0.9955
+    },
+    {
+      "text": "The",
+      "start": 55.35,
+      "end": 55.63,
+      "token_probability": 0.8282
+    },
+    {
+      "text": "reader",
+      "start": 55.63,
+      "end": 55.91,
+      "token_probability": 0.9524
+    },
+    {
+      "text": "reruns",
+      "start": 55.91,
+      "end": 56.43,
+      "token_probability": 0.932
+    },
+    {
+      "text": "the",
+      "start": 56.43,
+      "end": 56.65,
+      "token_probability": 0.9981
+    },
+    {
+      "text": "full",
+      "start": 56.65,
+      "end": 56.77,
+      "token_probability": 0.996
+    },
+    {
+      "text": "search.",
+      "start": 56.77,
+      "end": 57.77,
+      "token_probability": 0.9976
+    },
+    {
+      "text": "Costs,",
+      "start": 57.77,
+      "end": 58.41,
+      "token_probability": 0.7733
+    },
+    {
+      "text": "commitments",
+      "start": 58.41,
+      "end": 58.67,
+      "token_probability": 0.958
+    },
+    {
+      "text": "and",
+      "start": 58.67,
+      "end": 59.25,
+      "token_probability": 0.4518
+    },
+    {
+      "text": "the",
+      "start": 59.25,
+      "end": 59.45,
+      "token_probability": 0.9941
+    },
+    {
+      "text": "selected",
+      "start": 59.45,
+      "end": 59.77,
+      "token_probability": 0.9957
+    },
+    {
+      "text": "plan",
+      "start": 59.77,
+      "end": 60.15,
+      "token_probability": 0.9795
+    },
+    {
+      "text": "agree.",
+      "start": 60.15,
+      "end": 61.45,
+      "token_probability": 0.9959
+    },
+    {
+      "text": "Change",
+      "start": 61.45,
+      "end": 61.75,
+      "token_probability": 0.992
+    },
+    {
+      "text": "the",
+      "start": 61.75,
+      "end": 61.99,
+      "token_probability": 0.9984
+    },
+    {
+      "text": "saved",
+      "start": 61.99,
+      "end": 62.23,
+      "token_probability": 0.9532
+    },
+    {
+      "text": "result,",
+      "start": 62.23,
+      "end": 63.09,
+      "token_probability": 0.9937
+    },
+    {
+      "text": "and",
+      "start": 63.09,
+      "end": 63.13,
+      "token_probability": 0.9679
+    },
+    {
+      "text": "verification",
+      "start": 63.13,
+      "end": 63.65,
+      "token_probability": 0.9805
+    },
+    {
+      "text": "fails.",
+      "start": 63.65,
+      "end": 64.67,
+      "token_probability": 0.9985
+    },
+    {
+      "text": "The",
+      "start": 64.7,
+      "end": 65.02,
+      "token_probability": 0.9476
+    },
+    {
+      "text": "next",
+      "start": 65.02,
+      "end": 65.2,
+      "token_probability": 0.9952
+    },
+    {
+      "text": "step",
+      "start": 65.2,
+      "end": 65.54,
+      "token_probability": 0.998
+    },
+    {
+      "text": "is",
+      "start": 65.54,
+      "end": 65.72,
+      "token_probability": 0.9969
+    },
+    {
+      "text": "a",
+      "start": 65.72,
+      "end": 65.88,
+      "token_probability": 0.9951
+    },
+    {
+      "text": "real",
+      "start": 65.88,
+      "end": 66.08,
+      "token_probability": 0.9919
+    },
+    {
+      "text": "workshop,",
+      "start": 66.08,
+      "end": 66.92,
+      "token_probability": 0.9925
+    },
+    {
+      "text": "with",
+      "start": 66.92,
+      "end": 66.92,
+      "token_probability": 0.994
+    },
+    {
+      "text": "local",
+      "start": 66.92,
+      "end": 67.16,
+      "token_probability": 0.996
+    },
+    {
+      "text": "costs",
+      "start": 67.16,
+      "end": 67.62,
+      "token_probability": 0.9932
+    },
+    {
+      "text": "and",
+      "start": 67.62,
+      "end": 67.92,
+      "token_probability": 0.988
+    },
+    {
+      "text": "residents.",
+      "start": 67.92,
+      "end": 69.12,
+      "token_probability": 0.7129
+    },
+    {
+      "text": "Common",
+      "start": 69.12,
+      "end": 69.3,
+      "token_probability": 0.9762
+    },
+    {
+      "text": "Ground.",
+      "start": 69.3,
+      "end": 70.46,
+      "token_probability": 0.2103
+    },
+    {
+      "text": "Make",
+      "start": 70.46,
+      "end": 70.62,
+      "token_probability": 0.9954
+    },
+    {
+      "text": "the",
+      "start": 70.62,
+      "end": 70.78,
+      "token_probability": 0.9722
+    },
+    {
+      "text": "compromise",
+      "start": 70.78,
+      "end": 71.18,
+      "token_probability": 0.9256
+    },
+    {
+      "text": "visible.",
+      "start": 71.18,
+      "end": 72.1,
+      "token_probability": 0.9986
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Thirty thousand euros.",
+      "start": 0.0,
+      "end": 1.92,
+      "word_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Four community commitments.",
+      "start": 1.92,
+      "end": 3.76,
+      "word_indices": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "text": "No plan that can satisfy them all.",
+      "start": 3.76,
+      "end": 6.22,
+      "word_indices": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "text": "Common Ground makes that conflict visible, before anyone builds.",
+      "start": 6.22,
+      "end": 10.4,
+      "word_indices": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "text": "Here, residents set the budget and minimums for shade, access, play and rain.",
+      "start": 10.5,
+      "end": 16.2,
+      "word_indices": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "text": "These are illustrative design points, not measured impacts.",
+      "start": 16.2,
+      "end": 19.52,
+      "word_indices": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "text": "The studio checks all four thousand and ninety-six combinations of twelve interventions.",
+      "start": 19.55,
+      "end": 24.97,
+      "word_indices": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ]
+    },
+    {
+      "text": "At thirty thousand, the commitments cannot all hold.",
+      "start": 24.97,
+      "end": 28.21,
+      "word_indices": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "text": "Inspect the certificate: budget, shade, access and rain form an irreducible conflict.",
+      "start": 28.4,
+      "end": 35.08,
+      "word_indices": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "text": "We could lower a target.",
+      "start": 35.08,
+      "end": 36.76,
+      "word_indices": [
+        75,
+        76,
+        77,
+        78,
+        79
+      ]
+    },
+    {
+      "text": "Or change the budget.",
+      "start": 36.76,
+      "end": 38.12,
+      "word_indices": [
+        80,
+        81,
+        82,
+        83
+      ]
+    },
+    {
+      "text": "Seven thousand euros more preserves every original minimum.",
+      "start": 38.15,
+      "end": 42.23,
+      "word_indices": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ]
+    },
+    {
+      "text": "One plan survives.",
+      "start": 42.23,
+      "end": 43.63,
+      "word_indices": [
+        92,
+        93,
+        94
+      ]
+    },
+    {
+      "text": "A grove of trees.",
+      "start": 43.65,
+      "end": 45.15,
+      "word_indices": [
+        95,
+        96,
+        97,
+        98
+      ]
+    },
+    {
+      "text": "An accessible loop.",
+      "start": 45.15,
+      "end": 46.53,
+      "word_indices": [
+        99,
+        100,
+        101
+      ]
+    },
+    {
+      "text": "A wildflower patch.",
+      "start": 46.53,
+      "end": 47.89,
+      "word_indices": [
+        102,
+        103,
+        104
+      ]
+    },
+    {
+      "text": "A table for everyone.",
+      "start": 47.89,
+      "end": 49.27,
+      "word_indices": [
+        105,
+        106,
+        107,
+        108
+      ]
+    },
+    {
+      "text": "The result is something you can take away.",
+      "start": 49.3,
+      "end": 52.3,
+      "word_indices": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ]
+    },
+    {
+      "text": "Export the proposal, then open the actual file.",
+      "start": 52.3,
+      "end": 55.32,
+      "word_indices": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124
+      ]
+    },
+    {
+      "text": "The reader reruns the full search.",
+      "start": 55.35,
+      "end": 57.77,
+      "word_indices": [
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ]
+    },
+    {
+      "text": "Costs, commitments and the selected plan agree.",
+      "start": 57.77,
+      "end": 61.45,
+      "word_indices": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ]
+    },
+    {
+      "text": "Change the saved result, and verification fails.",
+      "start": 61.45,
+      "end": 64.67,
+      "word_indices": [
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ]
+    },
+    {
+      "text": "The next step is a real workshop, with local costs and residents.",
+      "start": 64.7,
+      "end": 69.12,
+      "word_indices": [
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156
+      ]
+    },
+    {
+      "text": "Common Ground.",
+      "start": 69.12,
+      "end": 70.46,
+      "word_indices": [
+        157,
+        158
+      ]
+    },
+    {
+      "text": "Make the compromise visible.",
+      "start": 70.46,
+      "end": 72.1,
+      "word_indices": [
+        159,
+        160,
+        161,
+        162
+      ]
+    }
+  ]
+}

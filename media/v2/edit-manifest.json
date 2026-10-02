@@ -1,0 +1,106 @@
+{
+  "duration": 73.2,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "shots": [
+    {
+      "start": 0,
+      "end": 3.76,
+      "name": "opening"
+    },
+    {
+      "start": 3.76,
+      "end": 7.05,
+      "name": "impossible"
+    },
+    {
+      "start": 7.05,
+      "end": 10.5,
+      "name": "studio"
+    },
+    {
+      "start": 10.5,
+      "end": 19.55,
+      "name": "commitments"
+    },
+    {
+      "start": 19.55,
+      "end": 24.97,
+      "name": "enumeration"
+    },
+    {
+      "start": 24.97,
+      "end": 28.4,
+      "name": "zero"
+    },
+    {
+      "start": 28.4,
+      "end": 35.4,
+      "name": "certificate"
+    },
+    {
+      "start": 35.4,
+      "end": 38.15,
+      "name": "options"
+    },
+    {
+      "start": 38.15,
+      "end": 40.2,
+      "name": "repair"
+    },
+    {
+      "start": 40.2,
+      "end": 49.3,
+      "name": "park"
+    },
+    {
+      "start": 49.3,
+      "end": 52.3,
+      "name": "export"
+    },
+    {
+      "start": 52.3,
+      "end": 55.35,
+      "name": "open"
+    },
+    {
+      "start": 55.35,
+      "end": 61.45,
+      "name": "receipt"
+    },
+    {
+      "start": 61.45,
+      "end": 64.7,
+      "name": "tamper"
+    },
+    {
+      "start": 64.7,
+      "end": 69.12,
+      "name": "next"
+    },
+    {
+      "start": 69.12,
+      "end": 73.2,
+      "name": "close"
+    }
+  ],
+  "source_note": "Common Ground v2: reproducible 73.2s editorial film.\nReal exported browser frames, original data animation, original Blender scene.\nThe montage is edited and retimed; it is not a continuous live benchmark.\nRun --preview first, then --render after all300 park frames exist.\n",
+  "creative_review": "Pending independent full normal-speed viewing with sound. Machine checks do not substitute.",
+  "source_frames": {
+    "receipt-rejected.png": "85825adcf65cd715b722d3779a4182da2781876be8bad909d18ac8541913f95a",
+    "studio-default-full.png": "319ecbbb4e36cb6b55d00110f122bb003d3782481bbea829152e98b993e123a1",
+    "export-click-full.png": "f8c763af32584c9d30a0e7b1939fe5633abeddf74184e03fa0846b005dd71706",
+    "receipt-empty-full.png": "b43877f695919bc576feb4fa4ef6a75e008ad83124cf747a0e602928ef011014",
+    "park-repaired.png": "29926b95cb91638ce511d7607fbb176c7823cf29b76f9526df563671d080ac7f",
+    "studio-zero-full.png": "844ab035461d5a3a57582f32bdee482c95f1712c7bd5495ff2cee9ec0cf79001",
+    "repair-click-full.png": "6ea4e8131a475295adfd50638ebecaa5df98401fc7143a41c39ce15bb28b8330",
+    "studio-zero.png": "a069d5116646967ef195fa3618f3572e35e17ff364d90511b33a48cf98ae4449",
+    "studio-default.png": "844902a6ca69b238591dad49f4ad7a6f4097b55f588d66ef1da6659cda51da89",
+    "receipt-verified.png": "2b6b6d7695212d899ce8dc0df5220cdd7cf94ad431380a2986d30a5281ee8602",
+    "conflict-certificate-full.png": "8f0130b9df084613d1ee5bb976ec795eb181bcfb47641f9165c758df8bf5d0e6"
+  },
+  "timings": "Local Whisper alignment, machine estimates; narration not subjectively listened to."
+}

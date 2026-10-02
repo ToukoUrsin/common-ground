@@ -1,0 +1,13 @@
+# Preserve these original render files locally; do not place hundreds of PNGs in Git.
+park-frames/
+common-ground-park.blend1
+park-render-sample.txt
+park-render.log
+park-encode.log
+park-decode.log
+park-partial-encode.log
+__pycache__/
+
+completion-watcher.json
+watch-render-completion.py
+park-render-checkpoint.json

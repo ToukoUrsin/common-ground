@@ -1,0 +1,1492 @@
+{
+  "text": " 30,000 euros for community commitments, no plan that can satisfy them all. Common ground makes that conflict visible before anyone builds. Here, residents set the budget and minimums for shade, access, play and rain. These are illustrative design points, not measured impacts. The studio checks all 4,096 combinations of 12 interventions. At 30,000, the commitments cannot all hold. Inspect the certificate, budget, shade, access and rain form an irreducible conflict. We could lower a target or change the budget. 7,000 euros more preserves every original minimum. One plan survives. A grove of trees. An accessible loop. A wildflower patch. A table for everyone. The result is something you can take away. Export the proposal, then open the actual file. The reader reruns the full search, costs, commitments and the selected plan agree. Change the saved result and verification fails. The next step is a real workshop with local costs and residents. Common ground. Make the compromise visible.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.94,
+      "text": " 30,000 euros for community commitments, no plan that can satisfy them all.",
+      "tokens": [
+        50363,
+        1542,
+        11,
+        830,
+        21138,
+        329,
+        2055,
+        19405,
+        11,
+        645,
+        1410,
+        326,
+        460,
+        15959,
+        606,
+        477,
+        13,
+        50643
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1787003137732065,
+      "compression_ratio": 1.5403225806451613,
+      "no_speech_prob": 0.14436127245426178,
+      "words": [
+        {
+          "word": " 30",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.6108818650245667
+        },
+        {
+          "word": ",000",
+          "start": 0.44,
+          "end": 0.88,
+          "probability": 0.9512170553207397
+        },
+        {
+          "word": " euros",
+          "start": 0.88,
+          "end": 1.4,
+          "probability": 0.7848845720291138
+        },
+        {
+          "word": " for",
+          "start": 1.4,
+          "end": 2.1,
+          "probability": 0.6118709444999695
+        },
+        {
+          "word": " community",
+          "start": 2.1,
+          "end": 2.52,
+          "probability": 0.9580762386322021
+        },
+        {
+          "word": " commitments,",
+          "start": 2.52,
+          "end": 3.12,
+          "probability": 0.9954532384872437
+        },
+        {
+          "word": " no",
+          "start": 3.74,
+          "end": 3.84,
+          "probability": 0.9660310745239258
+        },
+        {
+          "word": " plan",
+          "start": 3.84,
+          "end": 4.16,
+          "probability": 0.9870895743370056
+        },
+        {
+          "word": " that",
+          "start": 4.16,
+          "end": 4.38,
+          "probability": 0.9927694797515869
+        },
+        {
+          "word": " can",
+          "start": 4.38,
+          "end": 4.52,
+          "probability": 0.9975326061248779
+        },
+        {
+          "word": " satisfy",
+          "start": 4.52,
+          "end": 4.88,
+          "probability": 0.998994767665863
+        },
+        {
+          "word": " them",
+          "start": 4.88,
+          "end": 5.2,
+          "probability": 0.9974446296691895
+        },
+        {
+          "word": " all.",
+          "start": 5.2,
+          "end": 5.94,
+          "probability": 0.9849340915679932
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.22,
+      "end": 9.84,
+      "text": " Common ground makes that conflict visible before anyone builds.",
+      "tokens": [
+        50671,
+        8070,
+        2323,
+        1838,
+        326,
+        5358,
+        7424,
+        878,
+        2687,
+        12188,
+        13,
+        50855
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1787003137732065,
+      "compression_ratio": 1.5403225806451613,
+      "no_speech_prob": 0.14436127245426178,
+      "words": [
+        {
+          "word": " Common",
+          "start": 6.22,
+          "end": 6.46,
+          "probability": 0.9753467440605164
+        },
+        {
+          "word": " ground",
+          "start": 6.46,
+          "end": 6.84,
+          "probability": 0.8908550143241882
+        },
+        {
+          "word": " makes",
+          "start": 6.84,
+          "end": 7.14,
+          "probability": 0.9948437213897705
+        },
+        {
+          "word": " that",
+          "start": 7.14,
+          "end": 7.42,
+          "probability": 0.9970386028289795
+        },
+        {
+          "word": " conflict",
+          "start": 7.42,
+          "end": 7.72,
+          "probability": 0.9973821043968201
+        },
+        {
+          "word": " visible",
+          "start": 7.72,
+          "end": 8.28,
+          "probability": 0.9888420104980469
+        },
+        {
+          "word": " before",
+          "start": 8.28,
+          "end": 8.8,
+          "probability": 0.9718768000602722
+        },
+        {
+          "word": " anyone",
+          "start": 8.8,
+          "end": 9.22,
+          "probability": 0.9816218018531799
+        },
+        {
+          "word": " builds.",
+          "start": 9.22,
+          "end": 9.84,
+          "probability": 0.9962474703788757
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.76,
+      "end": 15.5,
+      "text": " Here, residents set the budget and minimums for shade, access, play and rain.",
+      "tokens": [
+        50883,
+        3423,
+        11,
+        5085,
+        900,
+        262,
+        4466,
+        290,
+        5288,
+        82,
+        329,
+        17979,
+        11,
+        1895,
+        11,
+        711,
+        290,
+        6290,
+        13,
+        51141
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1787003137732065,
+      "compression_ratio": 1.5403225806451613,
+      "no_speech_prob": 0.14436127245426178,
+      "words": [
+        {
+          "word": " Here,",
+          "start": 10.76,
+          "end": 10.76,
+          "probability": 0.9814594984054565
+        },
+        {
+          "word": " residents",
+          "start": 11.0,
+          "end": 11.32,
+          "probability": 0.9599295258522034
+        },
+        {
+          "word": " set",
+          "start": 11.32,
+          "end": 11.58,
+          "probability": 0.9985962510108948
+        },
+        {
+          "word": " the",
+          "start": 11.58,
+          "end": 11.78,
+          "probability": 0.998340368270874
+        },
+        {
+          "word": " budget",
+          "start": 11.78,
+          "end": 12.06,
+          "probability": 0.9886179566383362
+        },
+        {
+          "word": " and",
+          "start": 12.06,
+          "end": 12.3,
+          "probability": 0.9638981223106384
+        },
+        {
+          "word": " minimums",
+          "start": 12.3,
+          "end": 12.8,
+          "probability": 0.985562264919281
+        },
+        {
+          "word": " for",
+          "start": 12.8,
+          "end": 12.94,
+          "probability": 0.9984421133995056
+        },
+        {
+          "word": " shade,",
+          "start": 12.94,
+          "end": 13.34,
+          "probability": 0.9849730730056763
+        },
+        {
+          "word": " access,",
+          "start": 13.66,
+          "end": 14.04,
+          "probability": 0.9737665057182312
+        },
+        {
+          "word": " play",
+          "start": 14.48,
+          "end": 14.72,
+          "probability": 0.9964873790740967
+        },
+        {
+          "word": " and",
+          "start": 14.72,
+          "end": 15.02,
+          "probability": 0.7174068093299866
+        },
+        {
+          "word": " rain.",
+          "start": 15.02,
+          "end": 15.5,
+          "probability": 0.9464622735977173
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.16,
+      "end": 19.22,
+      "text": " These are illustrative design points, not measured impacts.",
+      "tokens": [
+        51167,
+        2312,
+        389,
+        6406,
+        13260,
+        1486,
+        2173,
+        11,
+        407,
+        8630,
+        12751,
+        13,
+        51327
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1787003137732065,
+      "compression_ratio": 1.5403225806451613,
+      "no_speech_prob": 0.14436127245426178,
+      "words": [
+        {
+          "word": " These",
+          "start": 16.16,
+          "end": 16.32,
+          "probability": 0.9963005781173706
+        },
+        {
+          "word": " are",
+          "start": 16.32,
+          "end": 16.48,
+          "probability": 0.9981186985969543
+        },
+        {
+          "word": " illustrative",
+          "start": 16.48,
+          "end": 17.0,
+          "probability": 0.9980614185333252
+        },
+        {
+          "word": " design",
+          "start": 17.0,
+          "end": 17.36,
+          "probability": 0.9978911280632019
+        },
+        {
+          "word": " points,",
+          "start": 17.36,
+          "end": 17.86,
+          "probability": 0.9988471269607544
+        },
+        {
+          "word": " not",
+          "start": 18.1,
+          "end": 18.22,
+          "probability": 0.998310923576355
+        },
+        {
+          "word": " measured",
+          "start": 18.22,
+          "end": 18.54,
+          "probability": 0.9872745275497437
+        },
+        {
+          "word": " impacts.",
+          "start": 18.54,
+          "end": 19.22,
+          "probability": 0.9956056475639343
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.72,
+      "end": 24.18,
+      "text": " The studio checks all 4,096 combinations of 12 interventions.",
+      "tokens": [
+        51345,
+        383,
+        8034,
+        8794,
+        477,
+        604,
+        11,
+        2931,
+        21,
+        17790,
+        286,
+        1105,
+        19901,
+        13,
+        51585
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1787003137732065,
+      "compression_ratio": 1.5403225806451613,
+      "no_speech_prob": 0.14436127245426178,
+      "words": [
+        {
+          "word": " The",
+          "start": 19.72,
+          "end": 19.86,
+          "probability": 0.9954336285591125
+        },
+        {
+          "word": " studio",
+          "start": 19.86,
+          "end": 20.18,
+          "probability": 0.8990111351013184
+        },
+        {
+          "word": " checks",
+          "start": 20.18,
+          "end": 20.54,
+          "probability": 0.9939794540405273
+        },
+        {
+          "word": " all",
+          "start": 20.54,
+          "end": 20.94,
+          "probability": 0.9940926432609558
+        },
+        {
+          "word": " 4",
+          "start": 20.94,
+          "end": 21.48,
+          "probability": 0.8011128306388855
+        },
+        {
+          "word": ",096",
+          "start": 21.48,
+          "end": 22.38,
+          "probability": 0.9759686589241028
+        },
+        {
+          "word": " combinations",
+          "start": 22.38,
+          "end": 23.02,
+          "probability": 0.9814899563789368
+        },
+        {
+          "word": " of",
+          "start": 23.02,
+          "end": 23.26,
+          "probability": 0.997439980506897
+        },
+        {
+          "word": " 12",
+          "start": 23.26,
+          "end": 23.6,
+          "probability": 0.9573180079460144
+        },
+        {
+          "word": " interventions.",
+          "start": 23.6,
+          "end": 24.18,
+          "probability": 0.9935352802276611
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.94,
+      "end": 27.94,
+      "text": " At 30,000, the commitments cannot all hold.",
+      "tokens": [
+        51613,
+        1629,
+        1542,
+        11,
+        830,
+        11,
+        262,
+        19405,
+        2314,
+        477,
+        1745,
+        13,
+        51763
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1787003137732065,
+      "compression_ratio": 1.5403225806451613,
+      "no_speech_prob": 0.14436127245426178,
+      "words": [
+        {
+          "word": " At",
+          "start": 24.94,
+          "end": 25.12,
+          "probability": 0.9972919821739197
+        },
+        {
+          "word": " 30",
+          "start": 25.12,
+          "end": 25.54,
+          "probability": 0.9889858961105347
+        },
+        {
+          "word": ",000,",
+          "start": 25.54,
+          "end": 26.0,
+          "probability": 0.9951262176036835
+        },
+        {
+          "word": " the",
+          "start": 26.24,
+          "end": 26.34,
+          "probability": 0.9978659749031067
+        },
+        {
+          "word": " commitments",
+          "start": 26.34,
+          "end": 26.68,
+          "probability": 0.995203971862793
+        },
+        {
+          "word": " cannot",
+          "start": 26.68,
+          "end": 27.1,
+          "probability": 0.9828743934631348
+        },
+        {
+          "word": " all",
+          "start": 27.1,
+          "end": 27.56,
+          "probability": 0.9913631677627563
+        },
+        {
+          "word": " hold.",
+          "start": 27.56,
+          "end": 27.94,
+          "probability": 0.9960959553718567
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2794,
+      "start": 27.94,
+      "end": 34.56,
+      "text": " Inspect the certificate, budget, shade, access and rain form an irreducible conflict.",
+      "tokens": [
+        50363,
+        20904,
+        262,
+        10703,
+        11,
+        4466,
+        11,
+        17979,
+        11,
+        1895,
+        290,
+        6290,
+        1296,
+        281,
+        4173,
+        445,
+        1229,
+        856,
+        5358,
+        13,
+        50713
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15370563584931043,
+      "compression_ratio": 1.5121951219512195,
+      "no_speech_prob": 0.5220047235488892,
+      "words": [
+        {
+          "word": " Inspect",
+          "start": 27.94,
+          "end": 29.12,
+          "probability": 0.06275944411754608
+        },
+        {
+          "word": " the",
+          "start": 29.12,
+          "end": 29.36,
+          "probability": 0.9839274287223816
+        },
+        {
+          "word": " certificate,",
+          "start": 29.36,
+          "end": 29.92,
+          "probability": 0.9091368913650513
+        },
+        {
+          "word": " budget,",
+          "start": 30.48,
+          "end": 30.7,
+          "probability": 0.9611404538154602
+        },
+        {
+          "word": " shade,",
+          "start": 31.12,
+          "end": 31.3,
+          "probability": 0.9743052124977112
+        },
+        {
+          "word": " access",
+          "start": 31.76,
+          "end": 32.04,
+          "probability": 0.9745661020278931
+        },
+        {
+          "word": " and",
+          "start": 32.04,
+          "end": 32.36,
+          "probability": 0.8331117630004883
+        },
+        {
+          "word": " rain",
+          "start": 32.36,
+          "end": 32.72,
+          "probability": 0.8086614012718201
+        },
+        {
+          "word": " form",
+          "start": 32.72,
+          "end": 33.14,
+          "probability": 0.9003256559371948
+        },
+        {
+          "word": " an",
+          "start": 33.14,
+          "end": 33.38,
+          "probability": 0.9851555228233337
+        },
+        {
+          "word": " irreducible",
+          "start": 33.38,
+          "end": 33.92,
+          "probability": 0.9805089831352234
+        },
+        {
+          "word": " conflict.",
+          "start": 33.92,
+          "end": 34.56,
+          "probability": 0.9965279698371887
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2794,
+      "start": 35.14,
+      "end": 37.74,
+      "text": " We could lower a target or change the budget.",
+      "tokens": [
+        50713,
+        775,
+        714,
+        2793,
+        257,
+        2496,
+        393,
+        1487,
+        262,
+        4466,
+        13,
+        50863
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15370563584931043,
+      "compression_ratio": 1.5121951219512195,
+      "no_speech_prob": 0.5220047235488892,
+      "words": [
+        {
+          "word": " We",
+          "start": 35.14,
+          "end": 35.14,
+          "probability": 0.9955558180809021
+        },
+        {
+          "word": " could",
+          "start": 35.14,
+          "end": 35.34,
+          "probability": 0.9924725294113159
+        },
+        {
+          "word": " lower",
+          "start": 35.34,
+          "end": 35.52,
+          "probability": 0.9978565573692322
+        },
+        {
+          "word": " a",
+          "start": 35.52,
+          "end": 35.72,
+          "probability": 0.9476738572120667
+        },
+        {
+          "word": " target",
+          "start": 35.72,
+          "end": 36.12,
+          "probability": 0.9949629306793213
+        },
+        {
+          "word": " or",
+          "start": 36.12,
+          "end": 36.86,
+          "probability": 0.5903725028038025
+        },
+        {
+          "word": " change",
+          "start": 36.86,
+          "end": 37.18,
+          "probability": 0.9967579245567322
+        },
+        {
+          "word": " the",
+          "start": 37.18,
+          "end": 37.36,
+          "probability": 0.9987239241600037
+        },
+        {
+          "word": " budget.",
+          "start": 37.36,
+          "end": 37.74,
+          "probability": 0.9900186061859131
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2794,
+      "start": 38.46,
+      "end": 41.48,
+      "text": " 7,000 euros more preserves every original minimum.",
+      "tokens": [
+        50863,
+        767,
+        11,
+        830,
+        21138,
+        517,
+        43759,
+        790,
+        2656,
+        5288,
+        13,
+        51063
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15370563584931043,
+      "compression_ratio": 1.5121951219512195,
+      "no_speech_prob": 0.5220047235488892,
+      "words": [
+        {
+          "word": " 7",
+          "start": 38.46,
+          "end": 38.5,
+          "probability": 0.43297895789146423
+        },
+        {
+          "word": ",000",
+          "start": 38.5,
+          "end": 39.02,
+          "probability": 0.9547892212867737
+        },
+        {
+          "word": " euros",
+          "start": 39.02,
+          "end": 39.44,
+          "probability": 0.8269290328025818
+        },
+        {
+          "word": " more",
+          "start": 39.44,
+          "end": 39.74,
+          "probability": 0.9250242114067078
+        },
+        {
+          "word": " preserves",
+          "start": 39.74,
+          "end": 40.14,
+          "probability": 0.9863069653511047
+        },
+        {
+          "word": " every",
+          "start": 40.14,
+          "end": 40.6,
+          "probability": 0.9972213506698608
+        },
+        {
+          "word": " original",
+          "start": 40.6,
+          "end": 41.04,
+          "probability": 0.9878366589546204
+        },
+        {
+          "word": " minimum.",
+          "start": 41.04,
+          "end": 41.48,
+          "probability": 0.9953303337097168
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2794,
+      "start": 42.26,
+      "end": 46.1,
+      "text": " One plan survives. A grove of trees. An accessible loop.",
+      "tokens": [
+        51063,
+        1881,
+        1410,
+        36417,
+        13,
+        317,
+        7128,
+        303,
+        286,
+        7150,
+        13,
+        1052,
+        9857,
+        9052,
+        13,
+        51263
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15370563584931043,
+      "compression_ratio": 1.5121951219512195,
+      "no_speech_prob": 0.5220047235488892,
+      "words": [
+        {
+          "word": " One",
+          "start": 42.26,
+          "end": 42.36,
+          "probability": 0.9555887579917908
+        },
+        {
+          "word": " plan",
+          "start": 42.36,
+          "end": 42.74,
+          "probability": 0.9884330630302429
+        },
+        {
+          "word": " survives.",
+          "start": 42.74,
+          "end": 43.32,
+          "probability": 0.9983102083206177
+        },
+        {
+          "word": " A",
+          "start": 43.86,
+          "end": 43.86,
+          "probability": 0.9919141530990601
+        },
+        {
+          "word": " grove",
+          "start": 43.86,
+          "end": 44.1,
+          "probability": 0.964786946773529
+        },
+        {
+          "word": " of",
+          "start": 44.1,
+          "end": 44.32,
+          "probability": 0.9981569647789001
+        },
+        {
+          "word": " trees.",
+          "start": 44.32,
+          "end": 44.54,
+          "probability": 0.9976431727409363
+        },
+        {
+          "word": " An",
+          "start": 45.18,
+          "end": 45.24,
+          "probability": 0.9570230841636658
+        },
+        {
+          "word": " accessible",
+          "start": 45.24,
+          "end": 45.68,
+          "probability": 0.9962539672851562
+        },
+        {
+          "word": " loop.",
+          "start": 45.68,
+          "end": 46.1,
+          "probability": 0.972883939743042
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2794,
+      "start": 46.56,
+      "end": 48.84,
+      "text": " A wildflower patch. A table for everyone.",
+      "tokens": [
+        51263,
+        317,
+        4295,
+        25547,
+        8529,
+        13,
+        317,
+        3084,
+        329,
+        2506,
+        13,
+        51413
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15370563584931043,
+      "compression_ratio": 1.5121951219512195,
+      "no_speech_prob": 0.5220047235488892,
+      "words": [
+        {
+          "word": " A",
+          "start": 46.56,
+          "end": 46.6,
+          "probability": 0.9942126870155334
+        },
+        {
+          "word": " wildflower",
+          "start": 46.6,
+          "end": 47.08,
+          "probability": 0.8705175518989563
+        },
+        {
+          "word": " patch.",
+          "start": 47.08,
+          "end": 47.48,
+          "probability": 0.9970683455467224
+        },
+        {
+          "word": " A",
+          "start": 48.0,
+          "end": 48.0,
+          "probability": 0.9944173097610474
+        },
+        {
+          "word": " table",
+          "start": 48.0,
+          "end": 48.2,
+          "probability": 0.9971675276756287
+        },
+        {
+          "word": " for",
+          "start": 48.2,
+          "end": 48.46,
+          "probability": 0.9988837838172913
+        },
+        {
+          "word": " everyone.",
+          "start": 48.46,
+          "end": 48.84,
+          "probability": 0.9940211176872253
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2794,
+      "start": 49.64,
+      "end": 51.5,
+      "text": " The result is something you can take away.",
+      "tokens": [
+        51413,
+        383,
+        1255,
+        318,
+        1223,
+        345,
+        460,
+        1011,
+        1497,
+        13,
+        51563
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15370563584931043,
+      "compression_ratio": 1.5121951219512195,
+      "no_speech_prob": 0.5220047235488892,
+      "words": [
+        {
+          "word": " The",
+          "start": 49.64,
+          "end": 49.72,
+          "probability": 0.9947834610939026
+        },
+        {
+          "word": " result",
+          "start": 49.72,
+          "end": 49.98,
+          "probability": 0.9980422258377075
+        },
+        {
+          "word": " is",
+          "start": 49.98,
+          "end": 50.24,
+          "probability": 0.9986131191253662
+        },
+        {
+          "word": " something",
+          "start": 50.24,
+          "end": 50.48,
+          "probability": 0.9988836646080017
+        },
+        {
+          "word": " you",
+          "start": 50.48,
+          "end": 50.68,
+          "probability": 0.9946473240852356
+        },
+        {
+          "word": " can",
+          "start": 50.68,
+          "end": 50.82,
+          "probability": 0.997718870639801
+        },
+        {
+          "word": " take",
+          "start": 50.82,
+          "end": 51.0,
+          "probability": 0.9988679885864258
+        },
+        {
+          "word": " away.",
+          "start": 51.0,
+          "end": 51.5,
+          "probability": 0.9991831183433533
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2794,
+      "start": 52.34,
+      "end": 54.98,
+      "text": " Export the proposal, then open the actual file.",
+      "tokens": [
+        51563,
+        36472,
+        262,
+        6961,
+        11,
+        788,
+        1280,
+        262,
+        4036,
+        2393,
+        13,
+        51713
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15370563584931043,
+      "compression_ratio": 1.5121951219512195,
+      "no_speech_prob": 0.5220047235488892,
+      "words": [
+        {
+          "word": " Export",
+          "start": 52.34,
+          "end": 52.62,
+          "probability": 0.9001724720001221
+        },
+        {
+          "word": " the",
+          "start": 52.62,
+          "end": 52.9,
+          "probability": 0.9986788630485535
+        },
+        {
+          "word": " proposal,",
+          "start": 52.9,
+          "end": 53.3,
+          "probability": 0.9888820052146912
+        },
+        {
+          "word": " then",
+          "start": 53.7,
+          "end": 53.86,
+          "probability": 0.99456787109375
+        },
+        {
+          "word": " open",
+          "start": 53.86,
+          "end": 54.02,
+          "probability": 0.9956583976745605
+        },
+        {
+          "word": " the",
+          "start": 54.02,
+          "end": 54.24,
+          "probability": 0.9987829327583313
+        },
+        {
+          "word": " actual",
+          "start": 54.24,
+          "end": 54.48,
+          "probability": 0.9983572363853455
+        },
+        {
+          "word": " file.",
+          "start": 54.48,
+          "end": 54.98,
+          "probability": 0.9984287619590759
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5498,
+      "start": 54.98,
+      "end": 60.72,
+      "text": " The reader reruns the full search, costs, commitments and the selected plan agree.",
+      "tokens": [
+        50363,
+        383,
+        9173,
+        302,
+        48381,
+        262,
+        1336,
+        2989,
+        11,
+        3484,
+        11,
+        19405,
+        290,
+        262,
+        6163,
+        1410,
+        4236,
+        13,
+        50699
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23516656641374556,
+      "compression_ratio": 1.4484848484848485,
+      "no_speech_prob": 0.11306459456682205,
+      "words": [
+        {
+          "word": " The",
+          "start": 54.98,
+          "end": 55.62,
+          "probability": 0.6583949327468872
+        },
+        {
+          "word": " reader",
+          "start": 55.62,
+          "end": 55.88,
+          "probability": 0.9420763850212097
+        },
+        {
+          "word": " reruns",
+          "start": 55.88,
+          "end": 56.42,
+          "probability": 0.9152695536613464
+        },
+        {
+          "word": " the",
+          "start": 56.42,
+          "end": 56.66,
+          "probability": 0.9963117241859436
+        },
+        {
+          "word": " full",
+          "start": 56.66,
+          "end": 56.78,
+          "probability": 0.9969209432601929
+        },
+        {
+          "word": " search,",
+          "start": 56.78,
+          "end": 57.28,
+          "probability": 0.9979971051216125
+        },
+        {
+          "word": " costs,",
+          "start": 57.76,
+          "end": 58.06,
+          "probability": 0.9717806577682495
+        },
+        {
+          "word": " commitments",
+          "start": 58.4,
+          "end": 58.7,
+          "probability": 0.9523383975028992
+        },
+        {
+          "word": " and",
+          "start": 58.7,
+          "end": 59.24,
+          "probability": 0.6090338230133057
+        },
+        {
+          "word": " the",
+          "start": 59.24,
+          "end": 59.44,
+          "probability": 0.9939039349555969
+        },
+        {
+          "word": " selected",
+          "start": 59.44,
+          "end": 59.76,
+          "probability": 0.9941569566726685
+        },
+        {
+          "word": " plan",
+          "start": 59.76,
+          "end": 60.18,
+          "probability": 0.9893948435783386
+        },
+        {
+          "word": " agree.",
+          "start": 60.18,
+          "end": 60.72,
+          "probability": 0.9933340549468994
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5498,
+      "start": 61.44,
+      "end": 64.34,
+      "text": " Change the saved result and verification fails.",
+      "tokens": [
+        50699,
+        9794,
+        262,
+        7448,
+        1255,
+        290,
+        19637,
+        10143,
+        13,
+        50861
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23516656641374556,
+      "compression_ratio": 1.4484848484848485,
+      "no_speech_prob": 0.11306459456682205,
+      "words": [
+        {
+          "word": " Change",
+          "start": 61.44,
+          "end": 61.76,
+          "probability": 0.9910605549812317
+        },
+        {
+          "word": " the",
+          "start": 61.76,
+          "end": 62.0,
+          "probability": 0.9983119964599609
+        },
+        {
+          "word": " saved",
+          "start": 62.0,
+          "end": 62.24,
+          "probability": 0.9582669734954834
+        },
+        {
+          "word": " result",
+          "start": 62.24,
+          "end": 62.68,
+          "probability": 0.9863751530647278
+        },
+        {
+          "word": " and",
+          "start": 62.68,
+          "end": 63.12,
+          "probability": 0.9288430213928223
+        },
+        {
+          "word": " verification",
+          "start": 63.12,
+          "end": 63.6,
+          "probability": 0.9954409599304199
+        },
+        {
+          "word": " fails.",
+          "start": 63.6,
+          "end": 64.34,
+          "probability": 0.998157799243927
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5498,
+      "start": 64.98,
+      "end": 68.42,
+      "text": " The next step is a real workshop with local costs and residents.",
+      "tokens": [
+        50861,
+        383,
+        1306,
+        2239,
+        318,
+        257,
+        1103,
+        20243,
+        351,
+        1957,
+        3484,
+        290,
+        5085,
+        13,
+        51071
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23516656641374556,
+      "compression_ratio": 1.4484848484848485,
+      "no_speech_prob": 0.11306459456682205,
+      "words": [
+        {
+          "word": " The",
+          "start": 64.98,
+          "end": 65.02,
+          "probability": 0.9901053309440613
+        },
+        {
+          "word": " next",
+          "start": 65.02,
+          "end": 65.2,
+          "probability": 0.99736088514328
+        },
+        {
+          "word": " step",
+          "start": 65.2,
+          "end": 65.54,
+          "probability": 0.9991569519042969
+        },
+        {
+          "word": " is",
+          "start": 65.54,
+          "end": 65.72,
+          "probability": 0.9981603026390076
+        },
+        {
+          "word": " a",
+          "start": 65.72,
+          "end": 65.86,
+          "probability": 0.9947798252105713
+        },
+        {
+          "word": " real",
+          "start": 65.86,
+          "end": 66.02,
+          "probability": 0.9953498840332031
+        },
+        {
+          "word": " workshop",
+          "start": 66.02,
+          "end": 66.5,
+          "probability": 0.989069402217865
+        },
+        {
+          "word": " with",
+          "start": 66.5,
+          "end": 66.94,
+          "probability": 0.9673758149147034
+        },
+        {
+          "word": " local",
+          "start": 66.94,
+          "end": 67.16,
+          "probability": 0.9938920736312866
+        },
+        {
+          "word": " costs",
+          "start": 67.16,
+          "end": 67.62,
+          "probability": 0.9934544563293457
+        },
+        {
+          "word": " and",
+          "start": 67.62,
+          "end": 67.92,
+          "probability": 0.9964258074760437
+        },
+        {
+          "word": " residents.",
+          "start": 67.92,
+          "end": 68.42,
+          "probability": 0.9297382235527039
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5498,
+      "start": 69.24,
+      "end": 69.82,
+      "text": " Common ground.",
+      "tokens": [
+        51071,
+        8070,
+        2323,
+        13,
+        51141
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23516656641374556,
+      "compression_ratio": 1.4484848484848485,
+      "no_speech_prob": 0.11306459456682205,
+      "words": [
+        {
+          "word": " Common",
+          "start": 69.24,
+          "end": 69.32,
+          "probability": 0.9732925295829773
+        },
+        {
+          "word": " ground.",
+          "start": 69.32,
+          "end": 69.82,
+          "probability": 0.8170409202575684
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5498,
+      "start": 70.5,
+      "end": 71.68,
+      "text": " Make the compromise visible.",
+      "tokens": [
+        51141,
+        6889,
+        262,
+        13110,
+        7424,
+        13,
+        51207
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23516656641374556,
+      "compression_ratio": 1.4484848484848485,
+      "no_speech_prob": 0.11306459456682205,
+      "words": [
+        {
+          "word": " Make",
+          "start": 70.5,
+          "end": 70.6,
+          "probability": 0.9923366904258728
+        },
+        {
+          "word": " the",
+          "start": 70.6,
+          "end": 70.78,
+          "probability": 0.9979958534240723
+        },
+        {
+          "word": " compromise",
+          "start": 70.78,
+          "end": 71.16,
+          "probability": 0.9935188889503479
+        },
+        {
+          "word": " visible.",
+          "start": 71.16,
+          "end": 71.68,
+          "probability": 0.9987022876739502
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "provenance": {
+    "method": "Local OpenAI Whisper base.en word timestamps (cross-attention alignment); no API",
+    "model_path": "/Users/touko/.cache/whisper/base.en.pt",
+    "audio_sha256": "99542bd0db8cbb773dc96c4317d6e85f0206bba9ccbae6509ddf5c35b9b2b6d0",
+    "runtime_seconds": 3.69,
+    "subjectively_listened": false
+  }
+}
